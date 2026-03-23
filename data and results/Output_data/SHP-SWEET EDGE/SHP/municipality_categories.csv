@@ -1,0 +1,2152 @@
+﻿BFS_NUMMER,NAME,KANTONSNUM,KANTON,URB_TYPE,MNT_TYPE,9_CAT,POP
+1,Aeugst am Albis,1,ZH,Periurban,Midlands,Midlands-Periurban,2014
+2,Affoltern am Albis,1,ZH,Urban,Midlands,Midlands-Urban,12289
+3,Bonstetten,1,ZH,Periurban,Midlands,Midlands-Periurban,5610
+4,Hausen am Albis,1,ZH,Periurban,Midlands,Midlands-Periurban,3801
+5,Hedingen,1,ZH,Urban,Midlands,Midlands-Urban,3795
+6,Kappel am Albis,1,ZH,Periurban,Midlands,Midlands-Periurban,1245
+7,Knonau,1,ZH,Periurban,Midlands,Midlands-Periurban,2369
+8,Maschwanden,1,ZH,Periurban,Midlands,Midlands-Periurban,641
+9,Mettmenstetten,1,ZH,Periurban,Midlands,Midlands-Periurban,5380
+10,Obfelden,1,ZH,Periurban,Midlands,Midlands-Periurban,5779
+11,Ottenbach,1,ZH,Periurban,Midlands,Midlands-Periurban,2704
+12,Rifferswil,1,ZH,Periurban,Midlands,Midlands-Periurban,1148
+13,Stallikon,1,ZH,Periurban,Midlands,Midlands-Periurban,3783
+14,Wettswil am Albis,1,ZH,Periurban,Midlands,Midlands-Periurban,5281
+21,Adlikon,1,ZH,Periurban,Midlands,Midlands-Periurban,693
+22,Benken (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,856
+23,Berg am Irchel,1,ZH,Periurban,Midlands,Midlands-Periurban,595
+24,Buch am Irchel,1,ZH,Periurban,Midlands,Midlands-Periurban,1022
+25,Dachsen,1,ZH,Periurban,Midlands,Midlands-Periurban,1917
+26,Dorf,1,ZH,Periurban,Midlands,Midlands-Periurban,666
+27,Feuerthalen,1,ZH,Urban,Midlands,Midlands-Urban,3697
+28,Flaach,1,ZH,Periurban,Midlands,Midlands-Periurban,1430
+29,Flurlingen,1,ZH,Urban,Midlands,Midlands-Urban,1552
+30,Andelfingen,1,ZH,Periurban,Midlands,Midlands-Periurban,2232
+31,Henggart,1,ZH,Periurban,Midlands,Midlands-Periurban,2293
+32,Humlikon,1,ZH,Periurban,Midlands,Midlands-Periurban,484
+33,Kleinandelfingen,1,ZH,Periurban,Midlands,Midlands-Periurban,2104
+34,Laufen-Uhwiesen,1,ZH,Periurban,Midlands,Midlands-Periurban,1779
+35,Marthalen,1,ZH,Periurban,Midlands,Midlands-Periurban,1933
+37,Ossingen,1,ZH,Periurban,Midlands,Midlands-Periurban,1724
+38,Rheinau,1,ZH,Periurban,Midlands,Midlands-Periurban,1287
+39,Thalheim an der Thur,1,ZH,Periurban,Midlands,Midlands-Periurban,949
+40,Trüllikon,1,ZH,Periurban,Midlands,Midlands-Periurban,1055
+41,Truttikon,1,ZH,Periurban,Midlands,Midlands-Periurban,449
+43,Volken,1,ZH,Periurban,Midlands,Midlands-Periurban,383
+51,Bachenbülach,1,ZH,Urban,Midlands,Midlands-Urban,4188
+52,Bassersdorf,1,ZH,Urban,Midlands,Midlands-Urban,11924
+53,Bülach,1,ZH,Urban,Midlands,Midlands-Urban,21998
+54,Dietlikon,1,ZH,Urban,Midlands,Midlands-Urban,7875
+55,Eglisau,1,ZH,Periurban,Midlands,Midlands-Periurban,5491
+56,Embrach,1,ZH,Urban,Midlands,Midlands-Urban,9610
+57,Freienstein-Teufen,1,ZH,Urban,Midlands,Midlands-Urban,2397
+58,Glattfelden,1,ZH,Periurban,Midlands,Midlands-Periurban,5266
+59,Hochfelden,1,ZH,Periurban,Midlands,Midlands-Periurban,2020
+60,Höri,1,ZH,Urban,Midlands,Midlands-Urban,2951
+61,Hüntwangen,1,ZH,Periurban,Midlands,Midlands-Periurban,1067
+62,Kloten,1,ZH,Urban,Midlands,Midlands-Urban,20429
+63,Lufingen,1,ZH,Periurban,Midlands,Midlands-Periurban,2562
+64,Nürensdorf,1,ZH,Periurban,Midlands,Midlands-Periurban,5628
+65,Oberembrach,1,ZH,Periurban,Midlands,Midlands-Periurban,1105
+66,Opfikon,1,ZH,Urban,Midlands,Midlands-Urban,20954
+67,Rafz,1,ZH,Periurban,Midlands,Midlands-Periurban,4628
+68,Rorbas,1,ZH,Urban,Midlands,Midlands-Urban,2885
+69,Wallisellen,1,ZH,Urban,Midlands,Midlands-Urban,17218
+70,Wasterkingen,1,ZH,Periurban,Midlands,Midlands-Periurban,568
+71,Wil (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,1488
+72,Winkel,1,ZH,Urban,Midlands,Midlands-Urban,4648
+81,Bachs,1,ZH,Periurban,Midlands,Midlands-Periurban,613
+82,Boppelsen,1,ZH,Periurban,Midlands,Midlands-Periurban,1472
+83,Buchs (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,6555
+84,Dällikon,1,ZH,Periurban,Midlands,Midlands-Periurban,4278
+85,Dänikon,1,ZH,Periurban,Midlands,Midlands-Periurban,1846
+86,Dielsdorf,1,ZH,Periurban,Midlands,Midlands-Periurban,5968
+87,Hüttikon,1,ZH,Periurban,Midlands,Midlands-Periurban,951
+88,Neerach,1,ZH,Periurban,Midlands,Midlands-Periurban,3229
+89,Niederglatt,1,ZH,Urban,Midlands,Midlands-Urban,4938
+90,Niederhasli,1,ZH,Urban,Midlands,Midlands-Urban,9449
+91,Niederweningen,1,ZH,Periurban,Midlands,Midlands-Periurban,3089
+92,Oberglatt,1,ZH,Urban,Midlands,Midlands-Urban,7386
+93,Oberweningen,1,ZH,Periurban,Midlands,Midlands-Periurban,1897
+94,Otelfingen,1,ZH,Periurban,Midlands,Midlands-Periurban,2943
+95,Regensberg,1,ZH,Periurban,Midlands,Midlands-Periurban,459
+96,Regensdorf,1,ZH,Urban,Midlands,Midlands-Urban,18568
+97,Rümlang,1,ZH,Periurban,Midlands,Midlands-Periurban,8277
+98,Schleinikon,1,ZH,Periurban,Midlands,Midlands-Periurban,858
+99,Schöfflisdorf,1,ZH,Periurban,Midlands,Midlands-Periurban,1394
+100,Stadel,1,ZH,Periurban,Midlands,Midlands-Periurban,2336
+101,Steinmaur,1,ZH,Periurban,Midlands,Midlands-Periurban,3583
+102,Weiach,1,ZH,Periurban,Midlands,Midlands-Periurban,1990
+111,Bäretswil,1,ZH,Periurban,Alps,Alps-Periurban,5052
+112,Bubikon,1,ZH,Periurban,Midlands,Midlands-Periurban,7371
+113,Dürnten,1,ZH,Urban,Midlands,Midlands-Urban,7645
+114,Fischenthal,1,ZH,Rural,Alps,Alps-Rural,2501
+115,Gossau (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,10282
+116,Grüningen,1,ZH,Periurban,Midlands,Midlands-Periurban,3716
+117,Hinwil,1,ZH,Periurban,Alps,Alps-Periurban,11354
+118,Rüti (ZH),1,ZH,Urban,Midlands,Midlands-Urban,12494
+119,Seegräben,1,ZH,Periurban,Midlands,Midlands-Periurban,1427
+120,Wald (ZH),1,ZH,Periurban,Alps,Alps-Periurban,10200
+121,Wetzikon (ZH),1,ZH,Urban,Midlands,Midlands-Urban,25056
+131,Adliswil,1,ZH,Urban,Midlands,Midlands-Urban,19049
+135,Kilchberg (ZH),1,ZH,Urban,Midlands,Midlands-Urban,9207
+136,Langnau am Albis,1,ZH,Urban,Midlands,Midlands-Urban,7902
+137,Oberrieden,1,ZH,Urban,Midlands,Midlands-Urban,5122
+138,Richterswil,1,ZH,Urban,Midlands,Midlands-Urban,13670
+139,Rüschlikon,1,ZH,Urban,Midlands,Midlands-Urban,6113
+141,Thalwil,1,ZH,Urban,Midlands,Midlands-Urban,18278
+151,Erlenbach (ZH),1,ZH,Urban,Midlands,Midlands-Urban,5606
+152,Herrliberg,1,ZH,Urban,Midlands,Midlands-Urban,6567
+153,Hombrechtikon,1,ZH,Periurban,Midlands,Midlands-Periurban,8815
+154,Küsnacht (ZH),1,ZH,Urban,Midlands,Midlands-Urban,14811
+155,Männedorf,1,ZH,Urban,Midlands,Midlands-Urban,11397
+156,Meilen,1,ZH,Urban,Midlands,Midlands-Urban,14539
+157,Oetwil am See,1,ZH,Periurban,Midlands,Midlands-Periurban,4857
+158,Stäfa,1,ZH,Urban,Midlands,Midlands-Urban,14791
+159,Uetikon am See,1,ZH,Urban,Midlands,Midlands-Urban,6225
+160,Zumikon,1,ZH,Urban,Midlands,Midlands-Urban,5587
+161,Zollikon,1,ZH,Urban,Midlands,Midlands-Urban,13311
+172,Fehraltorf,1,ZH,Periurban,Midlands,Midlands-Periurban,6574
+173,Hittnau,1,ZH,Periurban,Midlands,Midlands-Periurban,3733
+176,Lindau,1,ZH,Periurban,Midlands,Midlands-Periurban,5585
+177,Pfäffikon,1,ZH,Periurban,Midlands,Midlands-Periurban,12174
+178,Russikon,1,ZH,Periurban,Midlands,Midlands-Periurban,4410
+180,Weisslingen,1,ZH,Periurban,Midlands,Midlands-Periurban,3365
+181,Wila,1,ZH,Periurban,Alps,Alps-Periurban,1998
+182,Wildberg,1,ZH,Periurban,Alps,Alps-Periurban,1009
+191,Dübendorf,1,ZH,Urban,Midlands,Midlands-Urban,29907
+192,Egg,1,ZH,Periurban,Midlands,Midlands-Periurban,8829
+193,Fällanden,1,ZH,Periurban,Midlands,Midlands-Periurban,8934
+194,Greifensee,1,ZH,Urban,Midlands,Midlands-Urban,5307
+195,Maur,1,ZH,Periurban,Midlands,Midlands-Periurban,10780
+196,Mönchaltorf,1,ZH,Periurban,Midlands,Midlands-Periurban,4082
+197,Schwerzenbach,1,ZH,Urban,Midlands,Midlands-Urban,5193
+198,Uster,1,ZH,Urban,Midlands,Midlands-Urban,35337
+199,Volketswil,1,ZH,Urban,Midlands,Midlands-Urban,18865
+200,Wangen-Brüttisellen,1,ZH,Urban,Midlands,Midlands-Urban,8000
+211,Altikon,1,ZH,Periurban,Midlands,Midlands-Periurban,701
+213,Brütten,1,ZH,Periurban,Midlands,Midlands-Periurban,2063
+214,Dägerlen,1,ZH,Periurban,Midlands,Midlands-Periurban,1037
+215,Dättlikon,1,ZH,Periurban,Midlands,Midlands-Periurban,797
+216,Dinhard,1,ZH,Periurban,Midlands,Midlands-Periurban,1741
+218,Ellikon an der Thur,1,ZH,Periurban,Midlands,Midlands-Periurban,936
+219,Elsau,1,ZH,Urban,Midlands,Midlands-Urban,3657
+220,Hagenbuch,1,ZH,Periurban,Midlands,Midlands-Periurban,1095
+221,Hettlingen,1,ZH,Periurban,Midlands,Midlands-Periurban,3101
+223,Neftenbach,1,ZH,Urban,Midlands,Midlands-Urban,5756
+224,Pfungen,1,ZH,Periurban,Midlands,Midlands-Periurban,3948
+225,Rickenbach (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,2796
+226,Schlatt (ZH),1,ZH,Periurban,Alps,Alps-Periurban,779
+227,Seuzach,1,ZH,Periurban,Midlands,Midlands-Periurban,7420
+228,Turbenthal,1,ZH,Periurban,Alps,Alps-Periurban,4983
+230,Winterthur,1,ZH,Urban,Midlands,Midlands-Urban,114220
+231,Zell (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,6430
+241,Aesch (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,1709
+242,Birmensdorf (ZH),1,ZH,Periurban,Midlands,Midlands-Periurban,6909
+243,Dietikon,1,ZH,Urban,Midlands,Midlands-Urban,28057
+244,Geroldswil,1,ZH,Urban,Midlands,Midlands-Urban,5046
+245,Oberengstringen,1,ZH,Urban,Midlands,Midlands-Urban,6721
+246,Oetwil an der Limmat,1,ZH,Urban,Midlands,Midlands-Urban,2529
+247,Schlieren,1,ZH,Urban,Midlands,Midlands-Urban,19881
+248,Uitikon,1,ZH,Periurban,Midlands,Midlands-Periurban,4809
+249,Unterengstringen,1,ZH,Urban,Midlands,Midlands-Urban,3984
+250,Urdorf,1,ZH,Urban,Midlands,Midlands-Urban,10019
+251,Weiningen (ZH),1,ZH,Urban,Midlands,Midlands-Urban,4869
+261,Zürich,1,ZH,Urban,Midlands,Midlands-Urban,421878
+292,Stammheim,1,ZH,Rural,Midlands,Midlands-Rural,2859
+293,Wädenswil,1,ZH,Urban,Midlands,Midlands-Urban,24832
+294,Elgg,1,ZH,Periurban,Midlands,Midlands-Periurban,4960
+295,Horgen,1,ZH,Urban,Midlands,Midlands-Urban,23090
+296,Illnau-Effretikon,1,ZH,Urban,Midlands,Midlands-Urban,17352
+297,Bauma,1,ZH,Rural,Alps,Alps-Rural,4881
+298,Wiesendangen,1,ZH,Periurban,Midlands,Midlands-Periurban,6633
+301,Aarberg,2,BE,Periurban,Midlands,Midlands-Periurban,4626
+302,Bargen (BE),2,BE,Periurban,Midlands,Midlands-Periurban,1051
+303,Grossaffoltern,2,BE,Rural,Midlands,Midlands-Rural,3033
+304,Kallnach,2,BE,Rural,Midlands,Midlands-Rural,2220
+305,Kappelen,2,BE,Periurban,Midlands,Midlands-Periurban,1420
+306,Lyss,2,BE,Urban,Midlands,Midlands-Urban,15763
+307,Meikirch,2,BE,Periurban,Midlands,Midlands-Periurban,2526
+309,Radelfingen,2,BE,Periurban,Midlands,Midlands-Periurban,1272
+310,Rapperswil (BE),2,BE,Periurban,Midlands,Midlands-Periurban,2592
+311,Schüpfen,2,BE,Periurban,Midlands,Midlands-Periurban,3792
+312,Seedorf (BE),2,BE,Periurban,Midlands,Midlands-Periurban,3134
+321,Aarwangen,2,BE,Rural,Midlands,Midlands-Rural,4638
+322,Auswil,2,BE,Rural,Alps,Alps-Rural,448
+323,Bannwil,2,BE,Rural,Midlands,Midlands-Rural,676
+324,Bleienbach,2,BE,Rural,Midlands,Midlands-Rural,734
+325,Busswil bei Melchnau,2,BE,Rural,Midlands,Midlands-Rural,177
+326,Gondiswil,2,BE,Rural,Alps,Alps-Rural,711
+329,Langenthal,2,BE,Urban,Midlands,Midlands-Urban,15959
+331,Lotzwil,2,BE,Urban,Midlands,Midlands-Urban,2663
+332,Madiswil,2,BE,Rural,Midlands,Midlands-Rural,3284
+333,Melchnau,2,BE,Rural,Midlands,Midlands-Rural,1488
+335,Oeschenbach,2,BE,Rural,Alps,Alps-Rural,220
+336,Reisiswil,2,BE,Rural,Midlands,Midlands-Rural,173
+337,Roggwil (BE),2,BE,Rural,Midlands,Midlands-Rural,4176
+338,Rohrbach,2,BE,Rural,Midlands,Midlands-Rural,1520
+339,Rohrbachgraben,2,BE,Rural,Alps,Alps-Rural,390
+340,Rütschelen,2,BE,Rural,Midlands,Midlands-Rural,564
+341,Schwarzhäusern,2,BE,Rural,Midlands,Midlands-Rural,533
+342,Thunstetten,2,BE,Rural,Midlands,Midlands-Rural,3458
+344,Ursenbach,2,BE,Rural,Midlands,Midlands-Rural,881
+345,Wynau,2,BE,Rural,Midlands,Midlands-Rural,1624
+351,Bern,2,BE,Urban,Midlands,Midlands-Urban,134794
+352,Bolligen,2,BE,Urban,Midlands,Midlands-Urban,6308
+353,Bremgarten bei Bern,2,BE,Urban,Midlands,Midlands-Urban,4340
+354,Kirchlindach,2,BE,Periurban,Midlands,Midlands-Periurban,3200
+355,Köniz,2,BE,Urban,Midlands,Midlands-Urban,42388
+356,Muri bei Bern,2,BE,Urban,Midlands,Midlands-Urban,13182
+357,Oberbalm,2,BE,Periurban,Alps,Alps-Periurban,866
+358,Stettlen,2,BE,Urban,Midlands,Midlands-Urban,3162
+359,Vechigen,2,BE,Urban,Midlands,Midlands-Urban,5512
+360,Wohlen bei Bern,2,BE,Periurban,Midlands,Midlands-Periurban,9240
+361,Zollikofen,2,BE,Urban,Midlands,Midlands-Urban,10640
+362,Ittigen,2,BE,Urban,Midlands,Midlands-Urban,11430
+363,Ostermundigen,2,BE,Urban,Midlands,Midlands-Urban,17758
+371,Biel/Bienne,2,BE,Urban,Midlands,Midlands-Urban,55206
+372,Evilard,2,BE,Urban,Jura,Jura-Urban,2672
+381,Arch,2,BE,Periurban,Midlands,Midlands-Periurban,1700
+382,Büetigen,2,BE,Periurban,Midlands,Midlands-Periurban,894
+383,Büren an der Aare,2,BE,Rural,Midlands,Midlands-Rural,3622
+385,Diessbach bei Büren,2,BE,Periurban,Midlands,Midlands-Periurban,991
+386,Dotzigen,2,BE,Periurban,Midlands,Midlands-Periurban,1490
+387,Lengnau (BE),2,BE,Urban,Midlands,Midlands-Urban,5316
+388,Leuzigen,2,BE,Periurban,Midlands,Midlands-Periurban,1295
+389,Meienried,2,BE,Periurban,Midlands,Midlands-Periurban,53
+390,Meinisberg,2,BE,Periurban,Midlands,Midlands-Periurban,1326
+391,Oberwil bei Büren,2,BE,Rural,Midlands,Midlands-Rural,887
+392,Pieterlen,2,BE,Periurban,Midlands,Midlands-Periurban,4784
+393,Rüti bei Büren,2,BE,Periurban,Midlands,Midlands-Periurban,867
+394,Wengi,2,BE,Periurban,Midlands,Midlands-Periurban,630
+401,Aefligen,2,BE,Urban,Midlands,Midlands-Urban,1103
+402,Alchenstorf,2,BE,Rural,Midlands,Midlands-Rural,584
+403,Bäriswil,2,BE,Urban,Midlands,Midlands-Urban,1071
+404,Burgdorf,2,BE,Urban,Midlands,Midlands-Urban,16583
+405,Ersigen,2,BE,Urban,Midlands,Midlands-Urban,2063
+406,Hasle bei Burgdorf,2,BE,Rural,Alps,Alps-Rural,3302
+407,Heimiswil,2,BE,Rural,Alps,Alps-Rural,1632
+408,Hellsau,2,BE,Rural,Midlands,Midlands-Rural,214
+409,Hindelbank,2,BE,Periurban,Midlands,Midlands-Periurban,2638
+410,Höchstetten,2,BE,Rural,Midlands,Midlands-Rural,279
+411,Kernenried,2,BE,Rural,Midlands,Midlands-Rural,547
+412,Kirchberg (BE),2,BE,Urban,Midlands,Midlands-Urban,5919
+413,Koppigen,2,BE,Rural,Midlands,Midlands-Rural,2104
+414,Krauchthal,2,BE,Periurban,Midlands,Midlands-Periurban,2384
+415,Lyssach,2,BE,Rural,Midlands,Midlands-Rural,1466
+418,Oberburg,2,BE,Urban,Midlands,Midlands-Urban,2937
+420,Rüdtligen-Alchenflüh,2,BE,Urban,Midlands,Midlands-Urban,2444
+421,Rumendingen,2,BE,Rural,Midlands,Midlands-Rural,81
+422,Rüti bei Lyssach,2,BE,Rural,Midlands,Midlands-Rural,172
+423,Willadingen,2,BE,Rural,Midlands,Midlands-Rural,199
+424,Wynigen,2,BE,Rural,Alps,Alps-Rural,2077
+431,Corgémont,2,BE,Rural,Jura,Jura-Rural,1774
+432,Cormoret,2,BE,Rural,Jura,Jura-Rural,494
+433,Cortébert,2,BE,Rural,Jura,Jura-Rural,696
+434,Courtelary,2,BE,Rural,Jura,Jura-Rural,1405
+435,La Ferrière,2,BE,Periurban,Jura,Jura-Periurban,530
+437,Mont-Tramelan,2,BE,Rural,Jura,Jura-Rural,111
+438,Orvin,2,BE,Periurban,Jura,Jura-Periurban,1198
+441,Renan (BE),2,BE,Rural,Jura,Jura-Rural,934
+442,Romont (BE),2,BE,Periurban,Jura,Jura-Periurban,202
+443,Saint-Imier,2,BE,Rural,Jura,Jura-Rural,5156
+444,Sonceboz-Sombeval,2,BE,Rural,Jura,Jura-Rural,1954
+445,Sonvilier,2,BE,Rural,Jura,Jura-Rural,1223
+446,Tramelan,2,BE,Rural,Jura,Jura-Rural,4607
+448,Villeret,2,BE,Rural,Jura,Jura-Rural,941
+449,Sauge,2,BE,Periurban,Jura,Jura-Periurban,827
+450,Péry-La Heutte,2,BE,Periurban,Jura,Jura-Periurban,1908
+491,Brüttelen,2,BE,Rural,Midlands,Midlands-Rural,582
+492,Erlach,2,BE,Rural,Midlands,Midlands-Rural,1386
+493,Finsterhennen,2,BE,Rural,Midlands,Midlands-Rural,562
+494,Gals,2,BE,Periurban,Midlands,Midlands-Periurban,828
+495,Gampelen,2,BE,Rural,Midlands,Midlands-Rural,950
+496,Ins,2,BE,Rural,Midlands,Midlands-Rural,3560
+497,Lüscherz,2,BE,Periurban,Midlands,Midlands-Periurban,559
+498,Müntschemier,2,BE,Rural,Midlands,Midlands-Rural,1561
+499,Siselen,2,BE,Rural,Midlands,Midlands-Rural,612
+500,Treiten,2,BE,Rural,Midlands,Midlands-Rural,429
+501,Tschugg,2,BE,Rural,Midlands,Midlands-Rural,470
+502,Vinelz,2,BE,Rural,Midlands,Midlands-Rural,878
+533,Bätterkinden,2,BE,Periurban,Midlands,Midlands-Periurban,3288
+535,Deisswil bei Münchenbuchsee,2,BE,Periurban,Midlands,Midlands-Periurban,86
+536,Diemerswil,2,BE,Periurban,Midlands,Midlands-Periurban,199
+538,Fraubrunnen,2,BE,Periurban,Midlands,Midlands-Periurban,5203
+540,Jegenstorf,2,BE,Periurban,Midlands,Midlands-Periurban,5738
+541,Iffwil,2,BE,Periurban,Midlands,Midlands-Periurban,428
+543,Mattstetten,2,BE,Periurban,Midlands,Midlands-Periurban,580
+544,Moosseedorf,2,BE,Urban,Midlands,Midlands-Urban,4092
+546,Münchenbuchsee,2,BE,Periurban,Midlands,Midlands-Periurban,10233
+551,Urtenen-Schönbühl,2,BE,Urban,Midlands,Midlands-Urban,6367
+552,Utzenstorf,2,BE,Rural,Midlands,Midlands-Rural,4430
+553,Wiggiswil,2,BE,Periurban,Midlands,Midlands-Periurban,103
+554,Wiler bei Utzenstorf,2,BE,Rural,Midlands,Midlands-Rural,995
+556,Zielebach,2,BE,Periurban,Midlands,Midlands-Periurban,330
+557,Zuzwil (BE),2,BE,Periurban,Midlands,Midlands-Periurban,563
+561,Adelboden,2,BE,Rural,Alps,Alps-Rural,3343
+562,Aeschi bei Spiez,2,BE,Rural,Alps,Alps-Rural,2256
+563,Frutigen,2,BE,Rural,Alps,Alps-Rural,6967
+564,Kandergrund,2,BE,Rural,Alps,Alps-Rural,807
+565,Kandersteg,2,BE,Rural,Alps,Alps-Rural,1288
+566,Krattigen,2,BE,Periurban,Alps,Alps-Periurban,1130
+567,Reichenbach im Kandertal,2,BE,Rural,Alps,Alps-Rural,3638
+571,Beatenberg,2,BE,Rural,Alps,Alps-Rural,1199
+572,Bönigen,2,BE,Urban,Alps,Alps-Urban,2569
+573,Brienz (BE),2,BE,Rural,Alps,Alps-Rural,3158
+574,Brienzwiler,2,BE,Rural,Alps,Alps-Rural,481
+575,Därligen,2,BE,Periurban,Alps,Alps-Periurban,415
+576,Grindelwald,2,BE,Rural,Alps,Alps-Rural,3800
+577,Gsteigwiler,2,BE,Rural,Alps,Alps-Rural,402
+578,Gündlischwand,2,BE,Rural,Alps,Alps-Rural,351
+579,Habkern,2,BE,Rural,Alps,Alps-Rural,634
+580,Hofstetten bei Brienz,2,BE,Rural,Alps,Alps-Rural,531
+581,Interlaken,2,BE,Urban,Alps,Alps-Urban,5719
+582,Iseltwald,2,BE,Periurban,Alps,Alps-Periurban,415
+584,Lauterbrunnen,2,BE,Rural,Alps,Alps-Rural,2301
+585,Leissigen,2,BE,Periurban,Alps,Alps-Periurban,1171
+586,Lütschental,2,BE,Rural,Alps,Alps-Rural,214
+587,Matten bei Interlaken,2,BE,Urban,Alps,Alps-Urban,4060
+588,Niederried bei Interlaken,2,BE,Periurban,Alps,Alps-Periurban,368
+589,Oberried am Brienzersee,2,BE,Periurban,Alps,Alps-Periurban,461
+590,Ringgenberg (BE),2,BE,Periurban,Alps,Alps-Periurban,2588
+591,Saxeten,2,BE,Periurban,Alps,Alps-Periurban,92
+592,Schwanden bei Brienz,2,BE,Rural,Alps,Alps-Rural,625
+593,Unterseen,2,BE,Urban,Alps,Alps-Urban,5760
+594,Wilderswil,2,BE,Periurban,Alps,Alps-Periurban,2638
+602,Arni (BE),2,BE,Rural,Alps,Alps-Rural,936
+603,Biglen,2,BE,Periurban,Alps,Alps-Periurban,1847
+605,Bowil,2,BE,Rural,Alps,Alps-Rural,1354
+606,Brenzikofen,2,BE,Periurban,Alps,Alps-Periurban,481
+607,Freimettigen,2,BE,Periurban,Alps,Alps-Periurban,461
+608,Grosshöchstetten,2,BE,Periurban,Alps,Alps-Periurban,4143
+609,Häutligen,2,BE,Periurban,Alps,Alps-Periurban,256
+610,Herbligen,2,BE,Periurban,Alps,Alps-Periurban,593
+611,Kiesen,2,BE,Periurban,Midlands,Midlands-Periurban,1012
+612,Konolfingen,2,BE,Periurban,Alps,Alps-Periurban,5451
+613,Landiswil,2,BE,Rural,Alps,Alps-Rural,619
+614,Linden,2,BE,Rural,Alps,Alps-Rural,1304
+615,Mirchel,2,BE,Rural,Alps,Alps-Rural,616
+616,Münsingen,2,BE,Urban,Midlands,Midlands-Urban,12966
+617,Niederhünigen,2,BE,Periurban,Alps,Alps-Periurban,657
+619,Oberdiessbach,2,BE,Periurban,Alps,Alps-Periurban,3552
+620,Oberthal,2,BE,Rural,Alps,Alps-Rural,721
+622,Oppligen,2,BE,Periurban,Midlands,Midlands-Periurban,638
+623,Rubigen,2,BE,Periurban,Midlands,Midlands-Periurban,2892
+626,Walkringen,2,BE,Rural,Alps,Alps-Rural,1755
+627,Worb,2,BE,Periurban,Midlands,Midlands-Periurban,11621
+628,Zäziwil,2,BE,Periurban,Alps,Alps-Periurban,1601
+629,Oberhünigen,2,BE,Rural,Alps,Alps-Rural,316
+630,Allmendingen,2,BE,Periurban,Midlands,Midlands-Periurban,579
+632,Wichtrach,2,BE,Periurban,Midlands,Midlands-Periurban,4377
+662,Ferenbalm,2,BE,Periurban,Midlands,Midlands-Periurban,1214
+663,Frauenkappelen,2,BE,Periurban,Midlands,Midlands-Periurban,1320
+665,Gurbrü,2,BE,Rural,Midlands,Midlands-Rural,254
+666,Kriechenwil,2,BE,Periurban,Midlands,Midlands-Periurban,441
+667,Laupen,2,BE,Periurban,Midlands,Midlands-Periurban,3230
+668,Mühleberg,2,BE,Periurban,Midlands,Midlands-Periurban,2997
+669,Münchenwiler,2,BE,Urban,Midlands,Midlands-Urban,518
+670,Neuenegg,2,BE,Periurban,Midlands,Midlands-Periurban,5601
+671,Wileroltigen,2,BE,Rural,Midlands,Midlands-Rural,361
+681,Belprahon,2,BE,Rural,Jura,Jura-Rural,279
+683,Champoz,2,BE,Rural,Jura,Jura-Rural,174
+687,Corcelles (BE),2,BE,Rural,Jura,Jura-Rural,201
+690,Court,2,BE,Rural,Jura,Jura-Rural,1417
+691,Crémines,2,BE,Rural,Jura,Jura-Rural,488
+692,Eschert,2,BE,Rural,Jura,Jura-Rural,377
+694,Grandval,2,BE,Rural,Jura,Jura-Rural,388
+696,Loveresse,2,BE,Rural,Jura,Jura-Rural,349
+700,Moutier,2,BE,Rural,Jura,Jura-Rural,7348
+701,Perrefitte,2,BE,Rural,Jura,Jura-Rural,481
+703,Reconvilier,2,BE,Rural,Jura,Jura-Rural,2380
+704,Roches (BE),2,BE,Rural,Jura,Jura-Rural,190
+706,Saicourt,2,BE,Rural,Jura,Jura-Rural,645
+707,Saules (BE),2,BE,Rural,Jura,Jura-Rural,147
+708,Schelten,2,BE,Rural,Jura,Jura-Rural,39
+709,Seehof,2,BE,Rural,Jura,Jura-Rural,56
+711,Sorvilier,2,BE,Rural,Jura,Jura-Rural,283
+713,Tavannes,2,BE,Rural,Jura,Jura-Rural,3485
+715,Rebévelier,2,BE,Rural,Jura,Jura-Rural,41
+716,Petit-Val,2,BE,Rural,Jura,Jura-Rural,392
+717,Valbirse,2,BE,Rural,Jura,Jura-Rural,3971
+723,La Neuveville,2,BE,Periurban,Midlands,Midlands-Periurban,3780
+724,Nods,2,BE,Periurban,Jura,Jura-Periurban,788
+726,Plateau de Diesse,2,BE,Periurban,Jura,Jura-Periurban,2056
+731,Aegerten,2,BE,Urban,Midlands,Midlands-Urban,2210
+732,Bellmund,2,BE,Urban,Midlands,Midlands-Urban,1723
+733,Brügg,2,BE,Urban,Midlands,Midlands-Urban,4371
+734,Bühl,2,BE,Periurban,Midlands,Midlands-Periurban,482
+735,Epsach,2,BE,Periurban,Midlands,Midlands-Periurban,326
+736,Hagneck,2,BE,Periurban,Midlands,Midlands-Periurban,420
+737,Hermrigen,2,BE,Periurban,Midlands,Midlands-Periurban,307
+738,Jens,2,BE,Periurban,Midlands,Midlands-Periurban,633
+739,Ipsach,2,BE,Urban,Midlands,Midlands-Urban,3913
+740,Ligerz,2,BE,Periurban,Midlands,Midlands-Periurban,545
+741,Merzligen,2,BE,Periurban,Midlands,Midlands-Periurban,389
+742,Mörigen,2,BE,Periurban,Midlands,Midlands-Periurban,875
+743,Nidau,2,BE,Urban,Midlands,Midlands-Urban,6943
+744,Orpund,2,BE,Periurban,Midlands,Midlands-Periurban,3052
+745,Port,2,BE,Urban,Midlands,Midlands-Urban,3801
+746,Safnern,2,BE,Periurban,Midlands,Midlands-Periurban,1951
+747,Scheuren,2,BE,Periurban,Midlands,Midlands-Periurban,475
+748,Schwadernau,2,BE,Urban,Midlands,Midlands-Urban,692
+749,Studen (BE),2,BE,Urban,Midlands,Midlands-Urban,3372
+750,Sutz-Lattrigen,2,BE,Periurban,Midlands,Midlands-Periurban,1399
+751,Täuffelen,2,BE,Periurban,Midlands,Midlands-Periurban,2971
+754,Walperswil,2,BE,Periurban,Midlands,Midlands-Periurban,1039
+755,Worben,2,BE,Urban,Midlands,Midlands-Urban,2404
+756,Twann-Tüscherz,2,BE,Periurban,Jura,Jura-Periurban,1171
+761,Därstetten,2,BE,Rural,Alps,Alps-Rural,862
+762,Diemtigen,2,BE,Rural,Alps,Alps-Rural,2253
+763,Erlenbach im Simmental,2,BE,Rural,Alps,Alps-Rural,1724
+766,Oberwil im Simmental,2,BE,Rural,Alps,Alps-Rural,804
+767,Reutigen,2,BE,Periurban,Alps,Alps-Periurban,1023
+768,Spiez,2,BE,Urban,Alps,Alps-Urban,12926
+769,Wimmis,2,BE,Periurban,Alps,Alps-Periurban,2609
+770,Stocken-Höfen,2,BE,Periurban,Alps,Alps-Periurban,1041
+782,Guttannen,2,BE,Rural,Alps,Alps-Rural,245
+783,Hasliberg,2,BE,Rural,Alps,Alps-Rural,1158
+784,Innertkirchen,2,BE,Rural,Alps,Alps-Rural,1072
+785,Meiringen,2,BE,Rural,Alps,Alps-Rural,4666
+786,Schattenhalb,2,BE,Rural,Alps,Alps-Rural,552
+791,Boltigen,2,BE,Rural,Alps,Alps-Rural,1249
+792,Lenk,2,BE,Rural,Alps,Alps-Rural,2314
+793,St. Stephan,2,BE,Rural,Alps,Alps-Rural,1310
+794,Zweisimmen,2,BE,Rural,Alps,Alps-Rural,3032
+841,Gsteig,2,BE,Rural,Alps,Alps-Rural,981
+842,Lauenen,2,BE,Rural,Alps,Alps-Rural,828
+843,Saanen,2,BE,Rural,Alps,Alps-Rural,6836
+852,Guggisberg,2,BE,Rural,Alps,Alps-Rural,1490
+853,Rüschegg,2,BE,Rural,Alps,Alps-Rural,1697
+855,Schwarzenburg,2,BE,Periurban,Alps,Alps-Periurban,6812
+861,Belp,2,BE,Periurban,Midlands,Midlands-Periurban,11603
+863,Burgistein,2,BE,Periurban,Midlands,Midlands-Periurban,1093
+866,Gerzensee,2,BE,Periurban,Midlands,Midlands-Periurban,1237
+867,Gurzelen,2,BE,Periurban,Midlands,Midlands-Periurban,884
+868,Jaberg,2,BE,Periurban,Midlands,Midlands-Periurban,306
+869,Kaufdorf,2,BE,Periurban,Midlands,Midlands-Periurban,1073
+870,Kehrsatz,2,BE,Urban,Midlands,Midlands-Urban,4380
+872,Kirchdorf (BE),2,BE,Periurban,Midlands,Midlands-Periurban,1796
+877,Niedermuhlern,2,BE,Periurban,Alps,Alps-Periurban,512
+879,Riggisberg,2,BE,Rural,Alps,Alps-Rural,3034
+880,Rüeggisberg,2,BE,Rural,Alps,Alps-Rural,1765
+883,Seftigen,2,BE,Periurban,Midlands,Midlands-Periurban,2147
+884,Toffen,2,BE,Periurban,Midlands,Midlands-Periurban,2547
+885,Uttigen,2,BE,Periurban,Alps,Alps-Periurban,2153
+886,Wattenwil,2,BE,Periurban,Midlands,Midlands-Periurban,3060
+888,Wald (BE),2,BE,Periurban,Alps,Alps-Periurban,1160
+889,Thurnen,2,BE,Periurban,Midlands,Midlands-Periurban,2035
+901,Eggiwil,2,BE,Rural,Alps,Alps-Rural,2486
+902,Langnau im Emmental,2,BE,Rural,Alps,Alps-Rural,9262
+903,Lauperswil,2,BE,Rural,Alps,Alps-Rural,2663
+904,Röthenbach im Emmental,2,BE,Rural,Alps,Alps-Rural,1169
+905,Rüderswil,2,BE,Rural,Alps,Alps-Rural,2373
+906,Schangnau,2,BE,Rural,Alps,Alps-Rural,918
+907,Signau,2,BE,Rural,Alps,Alps-Rural,2594
+908,Trub,2,BE,Rural,Alps,Alps-Rural,1314
+909,Trubschachen,2,BE,Rural,Alps,Alps-Rural,1465
+921,Amsoldingen,2,BE,Periurban,Alps,Alps-Periurban,800
+922,Blumenstein,2,BE,Periurban,Alps,Alps-Periurban,1236
+923,Buchholterberg,2,BE,Periurban,Alps,Alps-Periurban,1519
+924,Eriz,2,BE,Periurban,Alps,Alps-Periurban,485
+925,Fahrni,2,BE,Periurban,Alps,Alps-Periurban,811
+927,Heiligenschwendi,2,BE,Periurban,Alps,Alps-Periurban,725
+928,Heimberg,2,BE,Urban,Alps,Alps-Urban,6968
+929,Hilterfingen,2,BE,Urban,Alps,Alps-Urban,4094
+931,Homberg,2,BE,Periurban,Alps,Alps-Periurban,510
+932,Horrenbach-Buchen,2,BE,Periurban,Alps,Alps-Periurban,226
+934,Oberhofen am Thunersee,2,BE,Urban,Alps,Alps-Urban,2445
+935,Oberlangenegg,2,BE,Periurban,Alps,Alps-Periurban,483
+936,Pohlern,2,BE,Periurban,Alps,Alps-Periurban,232
+938,Sigriswil,2,BE,Periurban,Alps,Alps-Periurban,4847
+939,Steffisburg,2,BE,Urban,Alps,Alps-Urban,15991
+940,Teuffenthal (BE),2,BE,Periurban,Alps,Alps-Periurban,160
+941,Thierachern,2,BE,Urban,Alps,Alps-Urban,2514
+942,Thun,2,BE,Urban,Alps,Alps-Urban,43476
+943,Uebeschi,2,BE,Periurban,Alps,Alps-Periurban,718
+944,Uetendorf,2,BE,Periurban,Alps,Alps-Periurban,5830
+945,Unterlangenegg,2,BE,Periurban,Alps,Alps-Periurban,1018
+946,Wachseldorn,2,BE,Periurban,Alps,Alps-Periurban,229
+947,Zwieselberg,2,BE,Periurban,Alps,Alps-Periurban,322
+948,Forst-Längenbühl,2,BE,Periurban,Alps,Alps-Periurban,769
+951,Affoltern im Emmental,2,BE,Rural,Alps,Alps-Rural,1125
+952,Dürrenroth,2,BE,Rural,Alps,Alps-Rural,1052
+953,Eriswil,2,BE,Rural,Alps,Alps-Rural,1358
+954,Huttwil,2,BE,Rural,Alps,Alps-Rural,5009
+955,Lützelflüh,2,BE,Rural,Alps,Alps-Rural,4211
+956,Rüegsau,2,BE,Rural,Alps,Alps-Rural,3265
+957,Sumiswald,2,BE,Rural,Alps,Alps-Rural,5044
+958,Trachselwald,2,BE,Rural,Alps,Alps-Rural,954
+959,Walterswil (BE),2,BE,Rural,Alps,Alps-Rural,540
+960,Wyssachen,2,BE,Rural,Alps,Alps-Rural,1103
+971,Attiswil,2,BE,Rural,Midlands,Midlands-Rural,1532
+972,Berken,2,BE,Rural,Midlands,Midlands-Rural,44
+973,Bettenhausen,2,BE,Rural,Midlands,Midlands-Rural,642
+975,Farnern,2,BE,Rural,Jura,Jura-Rural,227
+976,Graben,2,BE,Rural,Midlands,Midlands-Rural,336
+977,Heimenhausen,2,BE,Rural,Midlands,Midlands-Rural,1136
+979,Herzogenbuchsee,2,BE,Rural,Midlands,Midlands-Rural,7293
+980,Inkwil,2,BE,Rural,Midlands,Midlands-Rural,628
+981,Niederbipp,2,BE,Urban,Midlands,Midlands-Urban,5097
+982,Niederönz,2,BE,Rural,Midlands,Midlands-Rural,1691
+983,Oberbipp,2,BE,Rural,Midlands,Midlands-Rural,1753
+985,Ochlenberg,2,BE,Rural,Midlands,Midlands-Rural,563
+987,Rumisberg,2,BE,Rural,Jura,Jura-Rural,491
+988,Seeberg,2,BE,Rural,Midlands,Midlands-Rural,1559
+989,Thörigen,2,BE,Rural,Midlands,Midlands-Rural,1156
+990,Walliswil bei Niederbipp,2,BE,Rural,Midlands,Midlands-Rural,227
+991,Walliswil bei Wangen,2,BE,Rural,Midlands,Midlands-Rural,604
+992,Wangen an der Aare,2,BE,Rural,Midlands,Midlands-Rural,2377
+993,Wangenried,2,BE,Rural,Midlands,Midlands-Rural,407
+995,Wiedlisbach,2,BE,Rural,Midlands,Midlands-Rural,2382
+1001,Doppleschwand,3,LU,Rural,Alps,Alps-Rural,816
+1002,Entlebuch,3,LU,Rural,Alps,Alps-Rural,3230
+1004,Flühli,3,LU,Rural,Alps,Alps-Rural,1836
+1005,Hasle (LU),3,LU,Rural,Alps,Alps-Rural,1739
+1007,Romoos,3,LU,Rural,Alps,Alps-Rural,656
+1008,Schüpfheim,3,LU,Rural,Alps,Alps-Rural,4237
+1009,Werthenstein,3,LU,Rural,Alps,Alps-Rural,2125
+1010,Escholzmatt-Marbach,3,LU,Rural,Alps,Alps-Rural,4349
+1021,Aesch (LU),3,LU,Rural,Midlands,Midlands-Rural,1285
+1023,Ballwil,3,LU,Periurban,Midlands,Midlands-Periurban,2679
+1024,Emmen,3,LU,Urban,Midlands,Midlands-Urban,31039
+1025,Ermensee,3,LU,Rural,Midlands,Midlands-Rural,1029
+1026,Eschenbach (LU),3,LU,Periurban,Midlands,Midlands-Periurban,3677
+1030,Hitzkirch,3,LU,Rural,Midlands,Midlands-Rural,5916
+1031,Hochdorf,3,LU,Rural,Midlands,Midlands-Rural,9872
+1032,Hohenrain,3,LU,Rural,Midlands,Midlands-Rural,2429
+1033,Inwil,3,LU,Periurban,Midlands,Midlands-Periurban,2706
+1037,Rain,3,LU,Periurban,Midlands,Midlands-Periurban,2940
+1039,Römerswil,3,LU,Rural,Midlands,Midlands-Rural,1810
+1040,Rothenburg,3,LU,Urban,Midlands,Midlands-Urban,7715
+1041,Schongau,3,LU,Rural,Midlands,Midlands-Rural,1046
+1051,Adligenswil,3,LU,Urban,Alps,Alps-Urban,5471
+1052,Buchrain,3,LU,Urban,Alps,Alps-Urban,6400
+1053,Dierikon,3,LU,Urban,Alps,Alps-Urban,1579
+1054,Ebikon,3,LU,Urban,Alps,Alps-Urban,14066
+1055,Gisikon,3,LU,Periurban,Alps,Alps-Periurban,1421
+1056,Greppen,3,LU,Periurban,Alps,Alps-Periurban,1185
+1057,Honau,3,LU,Periurban,Alps,Alps-Periurban,414
+1058,Horw,3,LU,Urban,Alps,Alps-Urban,14211
+1059,Kriens,3,LU,Urban,Alps,Alps-Urban,28245
+1061,Luzern,3,LU,Urban,Alps,Alps-Urban,82620
+1062,Malters,3,LU,Periurban,Alps,Alps-Periurban,7410
+1063,Meggen,3,LU,Urban,Alps,Alps-Urban,7562
+1064,Meierskappel,3,LU,Periurban,Alps,Alps-Periurban,1477
+1065,Root,3,LU,Periurban,Alps,Alps-Periurban,5335
+1066,Schwarzenberg,3,LU,Periurban,Alps,Alps-Periurban,1738
+1067,Udligenswil,3,LU,Periurban,Alps,Alps-Periurban,2371
+1068,Vitznau,3,LU,Rural,Alps,Alps-Rural,1426
+1069,Weggis,3,LU,Periurban,Alps,Alps-Periurban,4440
+1081,Beromünster,3,LU,Rural,Midlands,Midlands-Rural,6661
+1082,Büron,3,LU,Rural,Midlands,Midlands-Rural,2662
+1083,Buttisholz,3,LU,Rural,Alps,Alps-Rural,3322
+1084,Eich,3,LU,Rural,Midlands,Midlands-Rural,1600
+1085,Geuensee,3,LU,Rural,Midlands,Midlands-Rural,2882
+1086,Grosswangen,3,LU,Rural,Alps,Alps-Rural,3293
+1088,Hildisrieden,3,LU,Periurban,Midlands,Midlands-Periurban,2437
+1089,Knutwil,3,LU,Rural,Midlands,Midlands-Rural,2271
+1091,Mauensee,3,LU,Rural,Midlands,Midlands-Rural,1489
+1093,Neuenkirch,3,LU,Periurban,Midlands,Midlands-Periurban,7174
+1094,Nottwil,3,LU,Rural,Midlands,Midlands-Rural,4048
+1095,Oberkirch,3,LU,Urban,Midlands,Midlands-Urban,4937
+1097,Rickenbach (LU),3,LU,Rural,Midlands,Midlands-Rural,3458
+1098,Ruswil,3,LU,Rural,Alps,Alps-Rural,7041
+1099,Schenkon,3,LU,Urban,Midlands,Midlands-Urban,3040
+1100,Schlierbach,3,LU,Rural,Midlands,Midlands-Rural,925
+1102,Sempach,3,LU,Rural,Midlands,Midlands-Rural,4234
+1103,Sursee,3,LU,Urban,Midlands,Midlands-Urban,10361
+1104,Triengen,3,LU,Rural,Midlands,Midlands-Rural,4616
+1107,Wolhusen,3,LU,Rural,Alps,Alps-Rural,4315
+1121,Alberswil,3,LU,Rural,Alps,Alps-Rural,665
+1122,Altbüron,3,LU,Rural,Alps,Alps-Rural,1017
+1123,Altishofen,3,LU,Rural,Alps,Alps-Rural,1959
+1125,Dagmersellen,3,LU,Rural,Midlands,Midlands-Rural,5680
+1127,Egolzwil,3,LU,Rural,Alps,Alps-Rural,1530
+1128,Ettiswil,3,LU,Rural,Alps,Alps-Rural,2792
+1129,Fischbach,3,LU,Rural,Alps,Alps-Rural,702
+1131,Grossdietwil,3,LU,Rural,Alps,Alps-Rural,855
+1132,Hergiswil bei Willisau,3,LU,Rural,Alps,Alps-Rural,1908
+1135,Luthern,3,LU,Rural,Alps,Alps-Rural,1245
+1136,Menznau,3,LU,Rural,Alps,Alps-Rural,2966
+1137,Nebikon,3,LU,Rural,Alps,Alps-Rural,2713
+1139,Pfaffnau,3,LU,Rural,Midlands,Midlands-Rural,2674
+1140,Reiden,3,LU,Rural,Midlands,Midlands-Rural,7255
+1142,Roggliswil,3,LU,Rural,Midlands,Midlands-Rural,723
+1143,Schötz,3,LU,Rural,Alps,Alps-Rural,4575
+1145,Ufhusen,3,LU,Rural,Alps,Alps-Rural,927
+1146,Wauwil,3,LU,Rural,Alps,Alps-Rural,2380
+1147,Wikon,3,LU,Urban,Midlands,Midlands-Urban,1495
+1150,Zell (LU),3,LU,Rural,Alps,Alps-Rural,2108
+1151,Willisau,3,LU,Rural,Alps,Alps-Rural,8910
+1201,Altdorf (UR),4,UR,Urban,Alps,Alps-Urban,9565
+1202,Andermatt,4,UR,Rural,Alps,Alps-Rural,1527
+1203,Attinghausen,4,UR,Urban,Alps,Alps-Urban,1747
+1205,Bürglen (UR),4,UR,Urban,Alps,Alps-Urban,3930
+1206,Erstfeld,4,UR,Periurban,Alps,Alps-Periurban,3861
+1207,Flüelen,4,UR,Urban,Alps,Alps-Urban,2025
+1208,Göschenen,4,UR,Rural,Alps,Alps-Rural,428
+1209,Gurtnellen,4,UR,Rural,Alps,Alps-Rural,512
+1210,Hospental,4,UR,Rural,Alps,Alps-Rural,182
+1211,Isenthal,4,UR,Periurban,Alps,Alps-Periurban,476
+1212,Realp,4,UR,Rural,Alps,Alps-Rural,142
+1213,Schattdorf,4,UR,Urban,Alps,Alps-Urban,5408
+1214,Seedorf (UR),4,UR,Periurban,Alps,Alps-Periurban,2045
+1215,Seelisberg,4,UR,Rural,Alps,Alps-Rural,688
+1216,Silenen,4,UR,Periurban,Alps,Alps-Periurban,1951
+1217,Sisikon,4,UR,Rural,Alps,Alps-Rural,383
+1218,Spiringen,4,UR,Periurban,Alps,Alps-Periurban,842
+1219,Unterschächen,4,UR,Periurban,Alps,Alps-Periurban,695
+1220,Wassen,4,UR,Rural,Alps,Alps-Rural,412
+1301,Einsiedeln,5,SZ,Urban,Alps,Alps-Urban,16247
+1311,Gersau,5,SZ,Rural,Alps,Alps-Rural,2364
+1321,Feusisberg,5,SZ,Periurban,Alps,Alps-Periurban,5427
+1322,Freienbach,5,SZ,Urban,Alps,Alps-Urban,16520
+1323,Wollerau,5,SZ,Urban,Alps,Alps-Urban,7385
+1331,Küssnacht (SZ),5,SZ,Periurban,Alps,Alps-Periurban,13531
+1341,Altendorf,5,SZ,Urban,Alps,Alps-Urban,7111
+1342,Galgenen,5,SZ,Periurban,Alps,Alps-Periurban,5277
+1343,Innerthal,5,SZ,Periurban,Alps,Alps-Periurban,178
+1344,Lachen,5,SZ,Urban,Alps,Alps-Urban,9137
+1345,Reichenburg,5,SZ,Periurban,Alps,Alps-Periurban,3891
+1346,Schübelbach,5,SZ,Urban,Alps,Alps-Urban,9289
+1347,Tuggen,5,SZ,Periurban,Alps,Alps-Periurban,3317
+1348,Vorderthal,5,SZ,Periurban,Alps,Alps-Periurban,1014
+1349,Wangen (SZ),5,SZ,Urban,Alps,Alps-Urban,5344
+1361,Alpthal,5,SZ,Rural,Alps,Alps-Rural,613
+1362,Arth,5,SZ,Urban,Alps,Alps-Urban,12184
+1363,Illgau,5,SZ,Rural,Alps,Alps-Rural,795
+1364,Ingenbohl,5,SZ,Rural,Alps,Alps-Rural,8977
+1365,Lauerz,5,SZ,Rural,Alps,Alps-Rural,1136
+1366,Morschach,5,SZ,Rural,Alps,Alps-Rural,1151
+1367,Muotathal,5,SZ,Rural,Alps,Alps-Rural,3470
+1368,Oberiberg,5,SZ,Rural,Alps,Alps-Rural,878
+1369,Riemenstalden,5,SZ,Rural,Alps,Alps-Rural,86
+1370,Rothenthurm,5,SZ,Rural,Alps,Alps-Rural,2484
+1371,Sattel,5,SZ,Periurban,Alps,Alps-Periurban,1925
+1372,Schwyz,5,SZ,Urban,Alps,Alps-Urban,15435
+1373,Steinen,5,SZ,Rural,Alps,Alps-Rural,3624
+1374,Steinerberg,5,SZ,Rural,Alps,Alps-Rural,953
+1375,Unteriberg,5,SZ,Rural,Alps,Alps-Rural,2414
+1401,Alpnach,6,OW,Rural,Alps,Alps-Rural,6109
+1402,Engelberg,6,OW,Rural,Alps,Alps-Rural,4194
+1403,Giswil,6,OW,Rural,Alps,Alps-Rural,3676
+1404,Kerns,6,OW,Rural,Alps,Alps-Rural,6332
+1405,Lungern,6,OW,Rural,Alps,Alps-Rural,2138
+1406,Sachseln,6,OW,Rural,Alps,Alps-Rural,5145
+1407,Sarnen,6,OW,Urban,Alps,Alps-Urban,10514
+1501,Beckenried,7,NW,Rural,Alps,Alps-Rural,3742
+1502,Buochs,7,NW,Rural,Alps,Alps-Rural,5313
+1503,Dallenwil,7,NW,Rural,Alps,Alps-Rural,1848
+1504,Emmetten,7,NW,Rural,Alps,Alps-Rural,1541
+1505,Ennetbürgen,7,NW,Rural,Alps,Alps-Rural,4866
+1506,Ennetmoos,7,NW,Rural,Alps,Alps-Rural,2254
+1507,Hergiswil (NW),7,NW,Periurban,Alps,Alps-Periurban,5863
+1508,Oberdorf (NW),7,NW,Urban,Alps,Alps-Urban,3080
+1509,Stans,7,NW,Urban,Alps,Alps-Urban,8171
+1510,Stansstad,7,NW,Urban,Alps,Alps-Urban,4727
+1511,Wolfenschiessen,7,NW,Rural,Alps,Alps-Rural,2115
+1630,Glarus Nord,8,GL,Urban,Alps,Alps-Urban,18832
+1631,Glarus Süd,8,GL,Rural,Alps,Alps-Rural,9480
+1632,Glarus,8,GL,Urban,Alps,Alps-Urban,12539
+1701,Baar,9,ZG,Urban,Midlands,Midlands-Urban,24686
+1702,Cham,9,ZG,Urban,Midlands,Midlands-Urban,17042
+1703,Hünenberg,9,ZG,Urban,Midlands,Midlands-Urban,8768
+1704,Menzingen,9,ZG,Periurban,Midlands,Midlands-Periurban,4540
+1705,Neuheim,9,ZG,Periurban,Midlands,Midlands-Periurban,2240
+1706,Oberägeri,9,ZG,Urban,Alps,Alps-Urban,6382
+1707,Risch,9,ZG,Urban,Midlands,Midlands-Urban,11212
+1708,Steinhausen,9,ZG,Urban,Midlands,Midlands-Urban,10198
+1709,Unterägeri,9,ZG,Urban,Alps,Alps-Urban,8972
+1710,Walchwil,9,ZG,Periurban,Alps,Alps-Periurban,3820
+1711,Zug,9,ZG,Urban,Alps,Alps-Urban,30934
+2008,Châtillon (FR),10,FR,Rural,Midlands,Midlands-Rural,520
+2011,Cugy (FR),10,FR,Rural,Midlands,Midlands-Rural,1847
+2016,Fétigny,10,FR,Rural,Midlands,Midlands-Rural,1080
+2022,Gletterens,10,FR,Rural,Midlands,Midlands-Rural,1094
+2025,Lully (FR),10,FR,Rural,Midlands,Midlands-Rural,1156
+2027,Ménières,10,FR,Rural,Midlands,Midlands-Rural,427
+2029,Montagny (FR),10,FR,Rural,Midlands,Midlands-Rural,2712
+2035,Nuvilly,10,FR,Rural,Midlands,Midlands-Rural,471
+2038,Prévondavaux,10,FR,Rural,Midlands,Midlands-Rural,83
+2041,Saint-Aubin (FR),10,FR,Rural,Midlands,Midlands-Rural,1886
+2043,Sévaz,10,FR,Rural,Midlands,Midlands-Rural,318
+2044,Surpierre,10,FR,Rural,Midlands,Midlands-Rural,1143
+2045,Vallon,10,FR,Rural,Midlands,Midlands-Rural,464
+2050,Les Montets,10,FR,Rural,Midlands,Midlands-Rural,1535
+2051,Delley-Portalban,10,FR,Rural,Midlands,Midlands-Rural,1222
+2053,Belmont-Broye,10,FR,Rural,Midlands,Midlands-Rural,5635
+2054,Estavayer,10,FR,Rural,Midlands,Midlands-Rural,9988
+2055,Cheyres-Châbles,10,FR,Rural,Midlands,Midlands-Rural,2320
+2061,Auboranges,10,FR,Periurban,Midlands,Midlands-Periurban,293
+2063,Billens-Hennens,10,FR,Rural,Midlands,Midlands-Rural,791
+2066,Chapelle (Glâne),10,FR,Periurban,Midlands,Midlands-Periurban,320
+2067,Le Châtelard,10,FR,Rural,Midlands,Midlands-Rural,349
+2068,Châtonnaye,10,FR,Rural,Midlands,Midlands-Rural,858
+2072,Ecublens (FR),10,FR,Periurban,Midlands,Midlands-Periurban,356
+2079,Grangettes,10,FR,Rural,Midlands,Midlands-Rural,218
+2086,Massonnens,10,FR,Rural,Midlands,Midlands-Rural,548
+2087,Mézières (FR),10,FR,Rural,Midlands,Midlands-Rural,1062
+2089,Montet (Glâne),10,FR,Periurban,Midlands,Midlands-Periurban,444
+2096,Romont (FR),10,FR,Rural,Midlands,Midlands-Rural,5417
+2097,Rue,10,FR,Rural,Midlands,Midlands-Rural,1537
+2099,Siviriez,10,FR,Rural,Midlands,Midlands-Rural,2346
+2102,Ursy,10,FR,Rural,Midlands,Midlands-Rural,3299
+2113,Vuisternens-devant-Romont,10,FR,Rural,Midlands,Midlands-Rural,2338
+2114,Villorsonnens,10,FR,Rural,Midlands,Midlands-Rural,1483
+2115,Torny,10,FR,Rural,Midlands,Midlands-Rural,988
+2117,Villaz,10,FR,Rural,Midlands,Midlands-Rural,2310
+2121,Haut-Intyamon,10,FR,Rural,Alps,Alps-Rural,1588
+2122,Pont-en-Ogoz,10,FR,Periurban,Alps,Alps-Periurban,1951
+2123,Botterens,10,FR,Periurban,Alps,Alps-Periurban,670
+2124,Broc,10,FR,Periurban,Alps,Alps-Periurban,2662
+2125,Bulle,10,FR,Urban,Alps,Alps-Urban,24412
+2128,Châtel-sur-Montsalvens,10,FR,Periurban,Alps,Alps-Periurban,317
+2129,Corbières,10,FR,Periurban,Alps,Alps-Periurban,919
+2130,Crésuz,10,FR,Periurban,Alps,Alps-Periurban,415
+2131,Echarlens,10,FR,Urban,Alps,Alps-Urban,847
+2134,Grandvillard,10,FR,Periurban,Alps,Alps-Periurban,845
+2135,Gruyères,10,FR,Periurban,Alps,Alps-Periurban,2205
+2137,Hauteville,10,FR,Periurban,Alps,Alps-Periurban,678
+2138,Jaun,10,FR,Rural,Alps,Alps-Rural,633
+2140,Marsens,10,FR,Periurban,Alps,Alps-Periurban,2034
+2143,Morlon,10,FR,Urban,Alps,Alps-Urban,643
+2145,Le Pâquier (FR),10,FR,Periurban,Alps,Alps-Periurban,1338
+2147,Pont-la-Ville,10,FR,Periurban,Alps,Alps-Periurban,609
+2148,Riaz,10,FR,Urban,Alps,Alps-Urban,2815
+2149,La Roche,10,FR,Periurban,Alps,Alps-Periurban,1821
+2152,Sâles,10,FR,Periurban,Alps,Alps-Periurban,1452
+2153,Sorens,10,FR,Periurban,Alps,Alps-Periurban,1105
+2155,Vaulruz,10,FR,Periurban,Alps,Alps-Periurban,1085
+2160,Vuadens,10,FR,Urban,Alps,Alps-Urban,2472
+2162,Bas-Intyamon,10,FR,Periurban,Alps,Alps-Periurban,1555
+2163,Val-de-Charmey,10,FR,Periurban,Alps,Alps-Periurban,2548
+2173,Autigny,10,FR,Periurban,Midlands,Midlands-Periurban,782
+2174,Avry,10,FR,Periurban,Midlands,Midlands-Periurban,1911
+2175,Belfaux,10,FR,Urban,Midlands,Midlands-Urban,3342
+2177,Chénens,10,FR,Periurban,Midlands,Midlands-Periurban,843
+2183,Corminboeuf,10,FR,Urban,Midlands,Midlands-Urban,2794
+2186,Cottens (FR),10,FR,Periurban,Midlands,Midlands-Periurban,1482
+2194,Ferpicloz,10,FR,Periurban,Midlands,Midlands-Periurban,267
+2196,Fribourg,10,FR,Urban,Midlands,Midlands-Urban,38039
+2197,Givisiez,10,FR,Urban,Midlands,Midlands-Urban,3143
+2198,Granges-Paccot,10,FR,Urban,Midlands,Midlands-Urban,3839
+2200,Grolley,10,FR,Periurban,Midlands,Midlands-Periurban,2084
+2206,Marly,10,FR,Periurban,Midlands,Midlands-Periurban,8222
+2208,Matran,10,FR,Periurban,Midlands,Midlands-Periurban,1620
+2211,Neyruz (FR),10,FR,Periurban,Midlands,Midlands-Periurban,2757
+2216,Pierrafortscha,10,FR,Periurban,Midlands,Midlands-Periurban,157
+2217,Ponthaux,10,FR,Periurban,Midlands,Midlands-Periurban,779
+2220,Le Mouret,10,FR,Periurban,Midlands,Midlands-Periurban,3148
+2226,Treyvaux,10,FR,Periurban,Midlands,Midlands-Periurban,1466
+2228,Villars-sur-Glâne,10,FR,Urban,Midlands,Midlands-Urban,12219
+2230,Villarsel-sur-Marly,10,FR,Periurban,Midlands,Midlands-Periurban,75
+2233,Hauterive (FR),10,FR,Periurban,Midlands,Midlands-Periurban,2597
+2234,La Brillaz,10,FR,Periurban,Midlands,Midlands-Periurban,2080
+2235,La Sonnaz,10,FR,Periurban,Midlands,Midlands-Periurban,1233
+2236,Gibloux,10,FR,Periurban,Midlands,Midlands-Periurban,7622
+2237,Prez,10,FR,Periurban,Midlands,Midlands-Periurban,2345
+2238,Bois-d'Amont,10,FR,Rural,Midlands,Midlands-Rural,2312
+2250,Courgevaux,10,FR,Urban,Midlands,Midlands-Urban,1438
+2254,Courtepin,10,FR,Periurban,Midlands,Midlands-Periurban,5503
+2257,Cressier (FR),10,FR,Periurban,Midlands,Midlands-Periurban,1015
+2258,Fräschels,10,FR,Rural,Midlands,Midlands-Rural,456
+2261,Greng,10,FR,Rural,Midlands,Midlands-Rural,178
+2262,Gurmels,10,FR,Periurban,Midlands,Midlands-Periurban,4487
+2265,Kerzers,10,FR,Rural,Midlands,Midlands-Rural,5037
+2266,Kleinbösingen,10,FR,Periurban,Midlands,Midlands-Periurban,699
+2271,Meyriez,10,FR,Urban,Midlands,Midlands-Urban,590
+2272,Misery-Courtion,10,FR,Periurban,Midlands,Midlands-Periurban,2225
+2274,Muntelier,10,FR,Urban,Midlands,Midlands-Urban,976
+2275,Murten,10,FR,Urban,Midlands,Midlands-Urban,9358
+2276,Ried bei Kerzers,10,FR,Rural,Midlands,Midlands-Rural,1229
+2278,Ulmiz,10,FR,Periurban,Midlands,Midlands-Periurban,432
+2284,Mont-Vully,10,FR,Rural,Midlands,Midlands-Rural,4123
+2292,Brünisried,10,FR,Periurban,Midlands,Midlands-Periurban,670
+2293,Düdingen,10,FR,Periurban,Midlands,Midlands-Periurban,8300
+2294,Giffers,10,FR,Periurban,Midlands,Midlands-Periurban,1664
+2295,Bösingen,10,FR,Periurban,Midlands,Midlands-Periurban,3421
+2296,Heitenried,10,FR,Periurban,Midlands,Midlands-Periurban,1395
+2299,Plaffeien,10,FR,Rural,Alps,Alps-Rural,3613
+2300,Plasselb,10,FR,Periurban,Alps,Alps-Periurban,1010
+2301,Rechthalten,10,FR,Periurban,Midlands,Midlands-Periurban,1106
+2303,St. Silvester,10,FR,Periurban,Alps,Alps-Periurban,952
+2304,St. Ursen,10,FR,Periurban,Midlands,Midlands-Periurban,1365
+2305,Schmitten (FR),10,FR,Periurban,Midlands,Midlands-Periurban,4166
+2306,Tafers,10,FR,Rural,Midlands,Midlands-Rural,7643
+2307,Tentlingen,10,FR,Periurban,Midlands,Midlands-Periurban,1348
+2308,Ueberstorf,10,FR,Periurban,Midlands,Midlands-Periurban,2382
+2309,Wünnewil-Flamatt,10,FR,Periurban,Midlands,Midlands-Periurban,5559
+2321,Attalens,10,FR,Periurban,Midlands,Midlands-Periurban,3580
+2323,Bossonnens,10,FR,Periurban,Midlands,Midlands-Periurban,1501
+2325,Châtel-Saint-Denis,10,FR,Periurban,Alps,Alps-Periurban,7449
+2328,Granges (Veveyse),10,FR,Periurban,Midlands,Midlands-Periurban,854
+2333,Remaufens,10,FR,Periurban,Midlands,Midlands-Periurban,1212
+2335,Saint-Martin (FR),10,FR,Periurban,Midlands,Midlands-Periurban,1026
+2336,Semsales,10,FR,Periurban,Alps,Alps-Periurban,1426
+2337,Le Flon,10,FR,Rural,Midlands,Midlands-Rural,1223
+2338,La Verrerie,10,FR,Periurban,Midlands,Midlands-Periurban,1301
+2391,Staatswald Galm,10,FR,Urban,Midlands,Midlands-Urban,
+2401,Egerkingen,11,SO,Rural,Midlands,Midlands-Rural,4041
+2402,Härkingen,11,SO,Rural,Midlands,Midlands-Rural,1644
+2403,Kestenholz,11,SO,Rural,Midlands,Midlands-Rural,1848
+2404,Neuendorf,11,SO,Rural,Midlands,Midlands-Rural,2277
+2405,Niederbuchsiten,11,SO,Rural,Midlands,Midlands-Rural,1260
+2406,Oberbuchsiten,11,SO,Rural,Midlands,Midlands-Rural,2296
+2407,Oensingen,11,SO,Urban,Midlands,Midlands-Urban,6276
+2408,Wolfwil,11,SO,Rural,Midlands,Midlands-Rural,2363
+2421,Aedermannsdorf,11,SO,Rural,Jura,Jura-Rural,581
+2422,Balsthal,11,SO,Rural,Jura,Jura-Rural,6210
+2424,Herbetswil,11,SO,Rural,Jura,Jura-Rural,568
+2425,Holderbank (SO),11,SO,Rural,Jura,Jura-Rural,705
+2426,Laupersdorf,11,SO,Rural,Jura,Jura-Rural,1810
+2427,Matzendorf,11,SO,Rural,Jura,Jura-Rural,1321
+2428,Mümliswil-Ramiswil,11,SO,Rural,Jura,Jura-Rural,2386
+2430,Welschenrohr-Gänsbrunnen,11,SO,Rural,Jura,Jura-Rural,1171
+2445,Biezwil,11,SO,Periurban,Midlands,Midlands-Periurban,344
+2455,Lüterkofen-Ichertswil,11,SO,Periurban,Midlands,Midlands-Periurban,878
+2456,Lüterswil-Gächliwil,11,SO,Rural,Midlands,Midlands-Rural,339
+2457,Messen,11,SO,Periurban,Midlands,Midlands-Periurban,1471
+2461,Schnottwil,11,SO,Periurban,Midlands,Midlands-Periurban,1135
+2463,Unterramsern,11,SO,Periurban,Midlands,Midlands-Periurban,219
+2464,Lüsslingen-Nennigkofen,11,SO,Periurban,Midlands,Midlands-Periurban,1101
+2465,Buchegg,11,SO,Periurban,Midlands,Midlands-Periurban,2522
+2471,Bättwil,11,SO,Periurban,Midlands,Midlands-Periurban,1188
+2472,Büren (SO),11,SO,Periurban,Jura,Jura-Periurban,1046
+2473,Dornach,11,SO,Urban,Midlands,Midlands-Urban,6882
+2474,Gempen,11,SO,Periurban,Jura,Jura-Periurban,904
+2475,Hochwald,11,SO,Periurban,Jura,Jura-Periurban,1275
+2476,Hofstetten-Flüh,11,SO,Periurban,Jura,Jura-Periurban,3206
+2477,Metzerlen-Mariastein,11,SO,Periurban,Jura,Jura-Periurban,938
+2478,Nuglar-St. Pantaleon,11,SO,Periurban,Jura,Jura-Periurban,1516
+2479,Rodersdorf,11,SO,Periurban,Jura,Jura-Periurban,1375
+2480,Seewen,11,SO,Periurban,Jura,Jura-Periurban,1022
+2481,Witterswil,11,SO,Periurban,Midlands,Midlands-Periurban,1450
+2491,Hauenstein-Ifenthal,11,SO,Periurban,Jura,Jura-Periurban,306
+2492,Kienberg,11,SO,Periurban,Jura,Jura-Periurban,503
+2493,Lostorf,11,SO,Periurban,Midlands,Midlands-Periurban,3963
+2495,Niedergösgen,11,SO,Urban,Midlands,Midlands-Urban,3897
+2497,Obergösgen,11,SO,Urban,Midlands,Midlands-Urban,2359
+2499,Stüsslingen,11,SO,Periurban,Midlands,Midlands-Periurban,1221
+2500,Trimbach,11,SO,Urban,Midlands,Midlands-Urban,6562
+2501,Winznau,11,SO,Urban,Midlands,Midlands-Urban,1968
+2502,Wisen (SO),11,SO,Periurban,Jura,Jura-Periurban,442
+2503,Erlinsbach (SO),11,SO,Urban,Midlands,Midlands-Urban,3572
+2511,Aeschi (SO),11,SO,Rural,Midlands,Midlands-Rural,1268
+2513,Biberist,11,SO,Urban,Midlands,Midlands-Urban,9109
+2514,Bolken,11,SO,Rural,Midlands,Midlands-Rural,590
+2516,Deitingen,11,SO,Periurban,Midlands,Midlands-Periurban,2227
+2517,Derendingen,11,SO,Urban,Midlands,Midlands-Urban,6592
+2518,Etziken,11,SO,Periurban,Midlands,Midlands-Periurban,973
+2519,Gerlafingen,11,SO,Urban,Midlands,Midlands-Urban,5502
+2520,Halten,11,SO,Periurban,Midlands,Midlands-Periurban,850
+2523,Horriwil,11,SO,Periurban,Midlands,Midlands-Periurban,836
+2524,Hüniken,11,SO,Periurban,Midlands,Midlands-Periurban,153
+2525,Kriegstetten,11,SO,Periurban,Midlands,Midlands-Periurban,1292
+2526,Lohn-Ammannsegg,11,SO,Periurban,Midlands,Midlands-Periurban,2870
+2527,Luterbach,11,SO,Periurban,Midlands,Midlands-Periurban,3555
+2528,Obergerlafingen,11,SO,Periurban,Midlands,Midlands-Periurban,1247
+2529,Oekingen,11,SO,Periurban,Midlands,Midlands-Periurban,878
+2530,Recherswil,11,SO,Periurban,Midlands,Midlands-Periurban,2028
+2532,Subingen,11,SO,Urban,Midlands,Midlands-Urban,3173
+2534,Zuchwil,11,SO,Urban,Midlands,Midlands-Urban,9058
+2535,Drei Höfe,11,SO,Periurban,Midlands,Midlands-Periurban,748
+2541,Balm bei Günsberg,11,SO,Rural,Jura,Jura-Rural,221
+2542,Bellach,11,SO,Urban,Midlands,Midlands-Urban,5297
+2543,Bettlach,11,SO,Urban,Midlands,Midlands-Urban,4953
+2544,Feldbrunnen-St. Niklaus,11,SO,Urban,Midlands,Midlands-Urban,975
+2545,Flumenthal,11,SO,Rural,Midlands,Midlands-Rural,1052
+2546,Grenchen,11,SO,Urban,Midlands,Midlands-Urban,17577
+2547,Günsberg,11,SO,Periurban,Jura,Jura-Periurban,1179
+2548,Hubersdorf,11,SO,Periurban,Midlands,Midlands-Periurban,725
+2549,Kammersrohr,11,SO,Rural,Jura,Jura-Rural,32
+2550,Langendorf,11,SO,Urban,Midlands,Midlands-Urban,3775
+2551,Lommiswil,11,SO,Periurban,Midlands,Midlands-Periurban,1587
+2553,Oberdorf (SO),11,SO,Urban,Jura,Jura-Urban,1776
+2554,Riedholz,11,SO,Periurban,Midlands,Midlands-Periurban,2316
+2555,Rüttenen,11,SO,Periurban,Midlands,Midlands-Periurban,1483
+2556,Selzach,11,SO,Periurban,Midlands,Midlands-Periurban,3491
+2571,Boningen,11,SO,Periurban,Midlands,Midlands-Periurban,793
+2572,Däniken,11,SO,Urban,Midlands,Midlands-Urban,2891
+2573,Dulliken,11,SO,Urban,Midlands,Midlands-Urban,5083
+2574,Eppenberg-Wöschnau,11,SO,Urban,Midlands,Midlands-Urban,311
+2575,Fulenbach,11,SO,Rural,Midlands,Midlands-Rural,1772
+2576,Gretzenbach,11,SO,Urban,Midlands,Midlands-Urban,2772
+2578,Gunzgen,11,SO,Rural,Midlands,Midlands-Rural,1689
+2579,Hägendorf,11,SO,Urban,Midlands,Midlands-Urban,5177
+2580,Kappel (SO),11,SO,Urban,Midlands,Midlands-Urban,3278
+2581,Olten,11,SO,Urban,Midlands,Midlands-Urban,18496
+2582,Rickenbach (SO),11,SO,Urban,Midlands,Midlands-Urban,1055
+2583,Schönenwerd,11,SO,Urban,Midlands,Midlands-Urban,5057
+2584,Starrkirch-Wil,11,SO,Urban,Midlands,Midlands-Urban,1753
+2585,Walterswil (SO),11,SO,Periurban,Midlands,Midlands-Periurban,743
+2586,Wangen bei Olten,11,SO,Urban,Midlands,Midlands-Urban,5239
+2601,Solothurn,11,SO,Urban,Midlands,Midlands-Urban,16802
+2611,Bärschwil,11,SO,Periurban,Jura,Jura-Periurban,803
+2612,Beinwil (SO),11,SO,Rural,Jura,Jura-Rural,274
+2613,Breitenbach,11,SO,Periurban,Jura,Jura-Periurban,3979
+2614,Büsserach,11,SO,Periurban,Jura,Jura-Periurban,2296
+2615,Erschwil,11,SO,Rural,Jura,Jura-Rural,948
+2616,Fehren,11,SO,Periurban,Jura,Jura-Periurban,595
+2617,Grindel,11,SO,Rural,Jura,Jura-Rural,502
+2618,Himmelried,11,SO,Periurban,Jura,Jura-Periurban,961
+2619,Kleinlützel,11,SO,Periurban,Jura,Jura-Periurban,1218
+2620,Meltingen,11,SO,Periurban,Jura,Jura-Periurban,655
+2621,Nunningen,11,SO,Periurban,Jura,Jura-Periurban,1914
+2622,Zullwil,11,SO,Periurban,Jura,Jura-Periurban,657
+2701,Basel,12,BS,Urban,Midlands,Midlands-Urban,173863
+2702,Bettingen,12,BS,Urban,Midlands,Midlands-Urban,1167
+2703,Riehen,12,BS,Urban,Midlands,Midlands-Urban,21705
+2761,Aesch (BL),13,BL,Urban,Midlands,Midlands-Urban,10314
+2762,Allschwil,13,BL,Urban,Midlands,Midlands-Urban,21374
+2763,Arlesheim,13,BL,Urban,Midlands,Midlands-Urban,9217
+2764,Biel-Benken,13,BL,Periurban,Midlands,Midlands-Periurban,3561
+2765,Binningen,13,BL,Urban,Midlands,Midlands-Urban,15771
+2766,Birsfelden,13,BL,Urban,Midlands,Midlands-Urban,10396
+2767,Bottmingen,13,BL,Urban,Midlands,Midlands-Urban,6875
+2768,Ettingen,13,BL,Periurban,Midlands,Midlands-Periurban,5448
+2769,Münchenstein,13,BL,Urban,Midlands,Midlands-Urban,12063
+2770,Muttenz,13,BL,Urban,Midlands,Midlands-Urban,17938
+2771,Oberwil (BL),13,BL,Urban,Midlands,Midlands-Urban,11104
+2772,Pfeffingen,13,BL,Urban,Jura,Jura-Urban,2408
+2773,Reinach (BL),13,BL,Urban,Midlands,Midlands-Urban,19159
+2774,Schönenbuch,13,BL,Periurban,Midlands,Midlands-Periurban,1433
+2775,Therwil,13,BL,Urban,Midlands,Midlands-Urban,9979
+2781,Blauen,13,BL,Periurban,Jura,Jura-Periurban,689
+2782,Brislach,13,BL,Periurban,Jura,Jura-Periurban,1690
+2783,Burg im Leimental,13,BL,Periurban,Jura,Jura-Periurban,280
+2784,Dittingen,13,BL,Periurban,Jura,Jura-Periurban,742
+2785,Duggingen,13,BL,Periurban,Jura,Jura-Periurban,1554
+2786,Grellingen,13,BL,Periurban,Jura,Jura-Periurban,1860
+2787,Laufen,13,BL,Periurban,Jura,Jura-Periurban,5777
+2788,Liesberg,13,BL,Rural,Jura,Jura-Rural,1101
+2789,Nenzlingen,13,BL,Periurban,Jura,Jura-Periurban,447
+2790,Roggenburg,13,BL,Rural,Jura,Jura-Rural,269
+2791,Röschenz,13,BL,Periurban,Jura,Jura-Periurban,1898
+2792,Wahlen,13,BL,Periurban,Jura,Jura-Periurban,1500
+2793,Zwingen,13,BL,Periurban,Jura,Jura-Periurban,2514
+2821,Arisdorf,13,BL,Periurban,Jura,Jura-Periurban,1691
+2822,Augst,13,BL,Urban,Midlands,Midlands-Urban,1061
+2823,Bubendorf,13,BL,Periurban,Jura,Jura-Periurban,4353
+2824,Frenkendorf,13,BL,Urban,Jura,Jura-Urban,6481
+2825,Füllinsdorf,13,BL,Urban,Jura,Jura-Urban,4549
+2826,Giebenach,13,BL,Periurban,Midlands,Midlands-Periurban,1086
+2827,Hersberg,13,BL,Periurban,Jura,Jura-Periurban,350
+2828,Lausen,13,BL,Urban,Jura,Jura-Urban,5463
+2829,Liestal,13,BL,Urban,Jura,Jura-Urban,14769
+2830,Lupsingen,13,BL,Periurban,Jura,Jura-Periurban,1440
+2831,Pratteln,13,BL,Urban,Midlands,Midlands-Urban,16606
+2832,Ramlinsburg,13,BL,Periurban,Jura,Jura-Periurban,721
+2833,Seltisberg,13,BL,Periurban,Jura,Jura-Periurban,1307
+2834,Ziefen,13,BL,Periurban,Jura,Jura-Periurban,1637
+2841,Anwil,13,BL,Rural,Jura,Jura-Rural,542
+2842,Böckten,13,BL,Periurban,Jura,Jura-Periurban,823
+2843,Buckten,13,BL,Periurban,Jura,Jura-Periurban,702
+2844,Buus,13,BL,Periurban,Jura,Jura-Periurban,1083
+2845,Diepflingen,13,BL,Periurban,Jura,Jura-Periurban,756
+2846,Gelterkinden,13,BL,Periurban,Jura,Jura-Periurban,6218
+2847,Häfelfingen,13,BL,Rural,Jura,Jura-Rural,253
+2848,Hemmiken,13,BL,Periurban,Jura,Jura-Periurban,258
+2849,Itingen,13,BL,Urban,Jura,Jura-Urban,2186
+2850,Känerkinden,13,BL,Periurban,Jura,Jura-Periurban,535
+2851,Kilchberg (BL),13,BL,Rural,Jura,Jura-Rural,161
+2852,Läufelfingen,13,BL,Periurban,Jura,Jura-Periurban,1270
+2853,Maisprach,13,BL,Periurban,Jura,Jura-Periurban,931
+2854,Nusshof,13,BL,Periurban,Jura,Jura-Periurban,259
+2855,Oltingen,13,BL,Rural,Jura,Jura-Rural,506
+2856,Ormalingen,13,BL,Periurban,Jura,Jura-Periurban,2282
+2857,Rickenbach (BL),13,BL,Periurban,Jura,Jura-Periurban,608
+2858,Rothenfluh,13,BL,Rural,Jura,Jura-Rural,783
+2859,Rümlingen,13,BL,Periurban,Jura,Jura-Periurban,434
+2860,Rünenberg,13,BL,Periurban,Jura,Jura-Periurban,761
+2861,Sissach,13,BL,Periurban,Jura,Jura-Periurban,6706
+2862,Tecknau,13,BL,Periurban,Jura,Jura-Periurban,828
+2863,Tenniken,13,BL,Periurban,Jura,Jura-Periurban,928
+2864,Thürnen,13,BL,Periurban,Jura,Jura-Periurban,1376
+2865,Wenslingen,13,BL,Periurban,Jura,Jura-Periurban,696
+2866,Wintersingen,13,BL,Periurban,Jura,Jura-Periurban,638
+2867,Wittinsburg,13,BL,Periurban,Jura,Jura-Periurban,430
+2868,Zeglingen,13,BL,Rural,Jura,Jura-Rural,494
+2869,Zunzgen,13,BL,Periurban,Jura,Jura-Periurban,2616
+2881,Arboldswil,13,BL,Periurban,Jura,Jura-Periurban,564
+2882,Bennwil,13,BL,Periurban,Jura,Jura-Periurban,675
+2883,Bretzwil,13,BL,Periurban,Jura,Jura-Periurban,743
+2884,Diegten,13,BL,Periurban,Jura,Jura-Periurban,1615
+2885,Eptingen,13,BL,Rural,Jura,Jura-Rural,543
+2886,Hölstein,13,BL,Periurban,Jura,Jura-Periurban,2560
+2887,Lampenberg,13,BL,Periurban,Jura,Jura-Periurban,520
+2888,Langenbruck,13,BL,Rural,Jura,Jura-Rural,951
+2889,Lauwil,13,BL,Periurban,Jura,Jura-Periurban,308
+2890,Liedertswil,13,BL,Rural,Jura,Jura-Rural,161
+2891,Niederdorf,13,BL,Periurban,Jura,Jura-Periurban,1822
+2892,Oberdorf (BL),13,BL,Periurban,Jura,Jura-Periurban,2432
+2893,Reigoldswil,13,BL,Periurban,Jura,Jura-Periurban,1585
+2894,Titterten,13,BL,Periurban,Jura,Jura-Periurban,419
+2895,Waldenburg,13,BL,Rural,Jura,Jura-Rural,1133
+2901,Gächlingen,14,SH,Periurban,Midlands,Midlands-Periurban,903
+2903,Löhningen,14,SH,Periurban,Midlands,Midlands-Periurban,1498
+2904,Neunkirch,14,SH,Periurban,Midlands,Midlands-Periurban,2404
+2914,Büttenhardt,14,SH,Periurban,Midlands,Midlands-Periurban,437
+2915,Dörflingen,14,SH,Periurban,Midlands,Midlands-Periurban,1010
+2917,Lohn (SH),14,SH,Periurban,Midlands,Midlands-Periurban,745
+2919,Stetten (SH),14,SH,Periurban,Midlands,Midlands-Periurban,1374
+2920,Thayngen,14,SH,Periurban,Midlands,Midlands-Periurban,5608
+2931,Bargen (SH),14,SH,Periurban,Midlands,Midlands-Periurban,320
+2932,Beringen,14,SH,Periurban,Midlands,Midlands-Periurban,5044
+2933,Buchberg,14,SH,Periurban,Midlands,Midlands-Periurban,867
+2936,Merishausen,14,SH,Periurban,Midlands,Midlands-Periurban,877
+2937,Neuhausen am Rheinfall,14,SH,Urban,Midlands,Midlands-Urban,10467
+2938,Rüdlingen,14,SH,Periurban,Midlands,Midlands-Periurban,803
+2939,Schaffhausen,14,SH,Urban,Midlands,Midlands-Urban,36952
+2951,Beggingen,14,SH,Rural,Midlands,Midlands-Rural,469
+2952,Schleitheim,14,SH,Periurban,Midlands,Midlands-Periurban,1668
+2953,Siblingen,14,SH,Periurban,Midlands,Midlands-Periurban,874
+2961,Buch (SH),14,SH,Rural,Midlands,Midlands-Rural,323
+2962,Hemishofen,14,SH,Rural,Midlands,Midlands-Rural,471
+2963,Ramsen,14,SH,Rural,Midlands,Midlands-Rural,1465
+2964,Stein am Rhein,14,SH,Rural,Midlands,Midlands-Rural,3561
+2971,Hallau,14,SH,Rural,Midlands,Midlands-Rural,2180
+2972,Oberhallau,14,SH,Periurban,Midlands,Midlands-Periurban,447
+2973,Trasadingen,14,SH,Periurban,Midlands,Midlands-Periurban,613
+2974,Wilchingen,14,SH,Periurban,Midlands,Midlands-Periurban,1727
+3001,Herisau,15,AR,Urban,Alps,Alps-Urban,15649
+3002,Hundwil,15,AR,Periurban,Alps,Alps-Periurban,968
+3003,Schönengrund,15,AR,Periurban,Alps,Alps-Periurban,528
+3004,Schwellbrunn,15,AR,Periurban,Alps,Alps-Periurban,1550
+3005,Stein (AR),15,AR,Periurban,Alps,Alps-Periurban,1388
+3006,Urnäsch,15,AR,Rural,Alps,Alps-Rural,2263
+3007,Waldstatt,15,AR,Periurban,Alps,Alps-Periurban,1803
+3021,Bühler,15,AR,Rural,Alps,Alps-Rural,1860
+3022,Gais,15,AR,Rural,Alps,Alps-Rural,3066
+3023,Speicher,15,AR,Periurban,Alps,Alps-Periurban,4434
+3024,Teufen (AR),15,AR,Periurban,Alps,Alps-Periurban,6364
+3025,Trogen,15,AR,Periurban,Alps,Alps-Periurban,1822
+3031,Grub (AR),15,AR,Periurban,Alps,Alps-Periurban,980
+3032,Heiden,15,AR,Rural,Alps,Alps-Rural,4188
+3033,Lutzenberg,15,AR,Periurban,Alps,Alps-Periurban,1271
+3034,Rehetobel,15,AR,Periurban,Alps,Alps-Periurban,1726
+3035,Reute (AR),15,AR,Rural,Alps,Alps-Rural,690
+3036,Wald (AR),15,AR,Rural,Alps,Alps-Rural,882
+3037,Walzenhausen,15,AR,Periurban,Alps,Alps-Periurban,2031
+3038,Wolfhalden,15,AR,Periurban,Alps,Alps-Periurban,1846
+3101,Appenzell,16,AI,Rural,Alps,Alps-Rural,5793
+3102,Gonten,16,AI,Rural,Alps,Alps-Rural,1442
+3103,Rüte,16,AI,Rural,Alps,Alps-Rural,3752
+3104,Schlatt-Haslen,16,AI,Rural,Alps,Alps-Rural,1126
+3105,Schwende,16,AI,Rural,Alps,Alps-Rural,2254
+3111,Oberegg,16,AI,Rural,Alps,Alps-Rural,1926
+3201,Häggenschwil,17,SG,Periurban,Midlands,Midlands-Periurban,1389
+3202,Muolen,17,SG,Periurban,Midlands,Midlands-Periurban,1224
+3203,St. Gallen,17,SG,Urban,Midlands,Midlands-Urban,76213
+3204,Wittenbach,17,SG,Urban,Midlands,Midlands-Urban,9747
+3211,Berg (SG),17,SG,Periurban,Midlands,Midlands-Periurban,866
+3212,Eggersriet,17,SG,Periurban,Alps,Alps-Periurban,2334
+3213,Goldach,17,SG,Urban,Alps,Alps-Urban,9476
+3214,Mörschwil,17,SG,Periurban,Midlands,Midlands-Periurban,3676
+3215,Rorschach,17,SG,Urban,Alps,Alps-Urban,9646
+3216,Rorschacherberg,17,SG,Urban,Alps,Alps-Urban,7465
+3217,Steinach,17,SG,Urban,Midlands,Midlands-Urban,3549
+3218,Tübach,17,SG,Urban,Midlands,Midlands-Urban,1494
+3219,Untereggen,17,SG,Periurban,Alps,Alps-Periurban,1034
+3231,Au (SG),17,SG,Urban,Alps,Alps-Urban,7984
+3232,Balgach,17,SG,Urban,Alps,Alps-Urban,4942
+3233,Berneck,17,SG,Urban,Alps,Alps-Urban,3928
+3234,Diepoldsau,17,SG,Urban,Alps,Alps-Urban,6479
+3235,Rheineck,17,SG,Periurban,Alps,Alps-Periurban,3404
+3236,St. Margrethen,17,SG,Urban,Alps,Alps-Urban,5991
+3237,Thal,17,SG,Urban,Alps,Alps-Urban,6722
+3238,Widnau,17,SG,Urban,Alps,Alps-Urban,9932
+3251,Altstätten,17,SG,Urban,Alps,Alps-Urban,11938
+3252,Eichberg,17,SG,Periurban,Alps,Alps-Periurban,1554
+3253,Marbach (SG),17,SG,Urban,Alps,Alps-Urban,2139
+3254,Oberriet (SG),17,SG,Periurban,Alps,Alps-Periurban,8996
+3255,Rebstein,17,SG,Urban,Alps,Alps-Urban,4640
+3256,Rüthi (SG),17,SG,Rural,Alps,Alps-Rural,2445
+3271,Buchs (SG),17,SG,Urban,Alps,Alps-Urban,13053
+3272,Gams,17,SG,Periurban,Alps,Alps-Periurban,3587
+3273,Grabs,17,SG,Urban,Alps,Alps-Urban,7220
+3274,Sennwald,17,SG,Rural,Alps,Alps-Rural,5709
+3275,Sevelen,17,SG,Periurban,Alps,Alps-Periurban,5128
+3276,Wartau,17,SG,Rural,Alps,Alps-Rural,5296
+3291,Bad Ragaz,17,SG,Rural,Alps,Alps-Rural,6467
+3292,Flums,17,SG,Rural,Alps,Alps-Rural,4964
+3293,Mels,17,SG,Urban,Alps,Alps-Urban,8716
+3294,Pfäfers,17,SG,Rural,Alps,Alps-Rural,1528
+3295,Quarten,17,SG,Rural,Alps,Alps-Rural,2988
+3296,Sargans,17,SG,Urban,Alps,Alps-Urban,6213
+3297,Vilters-Wangs,17,SG,Urban,Alps,Alps-Urban,4886
+3298,Walenstadt,17,SG,Rural,Alps,Alps-Rural,5728
+3311,Amden,17,SG,Rural,Alps,Alps-Rural,1876
+3312,Benken (SG),17,SG,Rural,Alps,Alps-Rural,2994
+3313,Kaltbrunn,17,SG,Rural,Alps,Alps-Rural,4976
+3315,Schänis,17,SG,Periurban,Alps,Alps-Periurban,3923
+3316,Weesen,17,SG,Periurban,Alps,Alps-Periurban,1753
+3338,Schmerikon,17,SG,Urban,Alps,Alps-Urban,3971
+3339,Uznach,17,SG,Urban,Alps,Alps-Urban,6519
+3340,Rapperswil-Jona,17,SG,Urban,Midlands,Midlands-Urban,27483
+3341,Gommiswald,17,SG,Rural,Alps,Alps-Rural,5316
+3342,Eschenbach (SG),17,SG,Periurban,Midlands,Midlands-Periurban,9614
+3352,Ebnat-Kappel,17,SG,Rural,Alps,Alps-Rural,5007
+3359,Wildhaus-Alt St. Johann,17,SG,Rural,Alps,Alps-Rural,2624
+3360,Nesslau,17,SG,Rural,Alps,Alps-Rural,3608
+3372,Hemberg,17,SG,Rural,Alps,Alps-Rural,909
+3374,Lichtensteig,17,SG,Urban,Alps,Alps-Urban,1879
+3375,Oberhelfenschwil,17,SG,Rural,Alps,Alps-Rural,1241
+3378,Neckertal,17,SG,Rural,Alps,Alps-Rural,4064
+3379,Wattwil,17,SG,Urban,Alps,Alps-Urban,8837
+3392,Kirchberg (SG),17,SG,Rural,Midlands,Midlands-Rural,9241
+3393,Lütisburg,17,SG,Rural,Midlands,Midlands-Rural,1614
+3394,Mosnang,17,SG,Rural,Alps,Alps-Rural,2889
+3395,Bütschwil-Ganterschwil,17,SG,Rural,Alps,Alps-Rural,5041
+3401,Degersheim,17,SG,Rural,Alps,Alps-Rural,4099
+3402,Flawil,17,SG,Urban,Midlands,Midlands-Urban,10510
+3405,Jonschwil,17,SG,Periurban,Midlands,Midlands-Periurban,3873
+3407,Oberuzwil,17,SG,Urban,Midlands,Midlands-Urban,6491
+3408,Uzwil,17,SG,Urban,Midlands,Midlands-Urban,13284
+3422,Niederbüren,17,SG,Periurban,Midlands,Midlands-Periurban,1507
+3423,Niederhelfenschwil,17,SG,Periurban,Midlands,Midlands-Periurban,3181
+3424,Oberbüren,17,SG,Urban,Midlands,Midlands-Urban,4576
+3426,Zuzwil (SG),17,SG,Periurban,Midlands,Midlands-Periurban,4786
+3427,Wil (SG),17,SG,Urban,Midlands,Midlands-Urban,24132
+3441,Andwil (SG),17,SG,Periurban,Midlands,Midlands-Periurban,2058
+3442,Gaiserwald,17,SG,Urban,Midlands,Midlands-Urban,8389
+3443,Gossau (SG),17,SG,Urban,Midlands,Midlands-Urban,17990
+3444,Waldkirch,17,SG,Periurban,Midlands,Midlands-Periurban,3559
+3506,Vaz/Obervaz,18,GR,Rural,Alps,Alps-Rural,2802
+3513,Lantsch/Lenz,18,GR,Rural,Alps,Alps-Rural,560
+3514,Schmitten (GR),18,GR,Rural,Alps,Alps-Rural,222
+3542,Albula/Alvra,18,GR,Rural,Alps,Alps-Rural,1295
+3543,Surses,18,GR,Rural,Alps,Alps-Rural,2377
+3544,Bergün Filisur,18,GR,Rural,Alps,Alps-Rural,919
+3551,Brusio,18,GR,Rural,Alps,Alps-Rural,1120
+3561,Poschiavo,18,GR,Rural,Alps,Alps-Rural,3441
+3572,Falera,18,GR,Rural,Alps,Alps-Rural,625
+3575,Laax,18,GR,Rural,Alps,Alps-Rural,1974
+3581,Sagogn,18,GR,Rural,Alps,Alps-Rural,736
+3582,Schluein,18,GR,Rural,Alps,Alps-Rural,611
+3603,Vals,18,GR,Rural,Alps,Alps-Rural,946
+3618,Lumnezia,18,GR,Rural,Alps,Alps-Rural,1996
+3619,Ilanz/Glion,18,GR,Rural,Alps,Alps-Rural,4797
+3633,Fürstenau,18,GR,Rural,Alps,Alps-Rural,350
+3637,Rothenbrunnen,18,GR,Rural,Alps,Alps-Rural,304
+3638,Scharans,18,GR,Rural,Alps,Alps-Rural,796
+3640,Sils im Domleschg,18,GR,Rural,Alps,Alps-Rural,971
+3661,Cazis,18,GR,Rural,Alps,Alps-Rural,2287
+3662,Flerden,18,GR,Rural,Alps,Alps-Rural,247
+3663,Masein,18,GR,Rural,Alps,Alps-Rural,500
+3668,Thusis,18,GR,Rural,Alps,Alps-Rural,3322
+3669,Tschappina,18,GR,Rural,Alps,Alps-Rural,134
+3670,Urmein,18,GR,Rural,Alps,Alps-Rural,150
+3672,Safiental,18,GR,Rural,Alps,Alps-Rural,937
+3673,Domleschg,18,GR,Rural,Alps,Alps-Rural,2160
+3681,Avers,18,GR,Rural,Alps,Alps-Rural,164
+3695,Sufers,18,GR,Rural,Alps,Alps-Rural,146
+3701,Andeer,18,GR,Rural,Alps,Alps-Rural,916
+3711,Rongellen,18,GR,Rural,Alps,Alps-Rural,56
+3712,Zillis-Reischen,18,GR,Rural,Alps,Alps-Rural,389
+3713,Ferrera,18,GR,Rural,Alps,Alps-Rural,79
+3714,Rheinwald,18,GR,Rural,Alps,Alps-Rural,574
+3715,Muntogna da Schons,18,GR,Rural,Alps,Alps-Rural,363
+3721,Bonaduz,18,GR,Periurban,Alps,Alps-Periurban,3468
+3722,Domat/Ems,18,GR,Periurban,Alps,Alps-Periurban,8161
+3723,Rhäzüns,18,GR,Periurban,Alps,Alps-Periurban,1611
+3731,Felsberg,18,GR,Periurban,Alps,Alps-Periurban,2640
+3732,Flims,18,GR,Rural,Alps,Alps-Rural,2915
+3733,Tamins,18,GR,Periurban,Alps,Alps-Periurban,1226
+3734,Trin,18,GR,Rural,Alps,Alps-Rural,1479
+3746,Zernez,18,GR,Rural,Alps,Alps-Rural,1506
+3752,Samnaun,18,GR,Rural,Alps,Alps-Rural,784
+3762,Scuol,18,GR,Rural,Alps,Alps-Rural,4624
+3764,Valsot,18,GR,Rural,Alps,Alps-Rural,826
+3781,Bever,18,GR,Rural,Alps,Alps-Rural,584
+3782,Celerina/Schlarigna,18,GR,Rural,Alps,Alps-Rural,1484
+3783,Madulain,18,GR,Rural,Alps,Alps-Rural,206
+3784,Pontresina,18,GR,Rural,Alps,Alps-Rural,2178
+3785,La Punt Chamues-ch,18,GR,Rural,Alps,Alps-Rural,686
+3786,Samedan,18,GR,Rural,Alps,Alps-Rural,2923
+3787,St. Moritz,18,GR,Urban,Alps,Alps-Urban,4945
+3788,S-chanf,18,GR,Rural,Alps,Alps-Rural,697
+3789,Sils im Engadin/Segl,18,GR,Rural,Alps,Alps-Rural,715
+3790,Silvaplana,18,GR,Rural,Alps,Alps-Rural,1121
+3791,Zuoz,18,GR,Rural,Alps,Alps-Rural,1199
+3792,Bregaglia,18,GR,Rural,Alps,Alps-Rural,1556
+3804,Buseno,18,GR,Periurban,Alps,Alps-Periurban,91
+3805,Castaneda,18,GR,Rural,Alps,Alps-Rural,278
+3808,Rossa,18,GR,Rural,Alps,Alps-Rural,151
+3810,Santa Maria in Calanca,18,GR,Periurban,Alps,Alps-Periurban,115
+3821,Lostallo,18,GR,Rural,Alps,Alps-Rural,840
+3822,Mesocco,18,GR,Rural,Alps,Alps-Rural,1323
+3823,Soazza,18,GR,Rural,Alps,Alps-Rural,324
+3831,Cama,18,GR,Rural,Alps,Alps-Rural,589
+3832,Grono,18,GR,Rural,Alps,Alps-Rural,1397
+3834,Roveredo (GR),18,GR,Rural,Alps,Alps-Rural,2597
+3835,San Vittore,18,GR,Periurban,Alps,Alps-Periurban,864
+3837,Calanca,18,GR,Rural,Alps,Alps-Rural,201
+3847,Val Müstair,18,GR,Rural,Alps,Alps-Rural,1423
+3851,Davos,18,GR,Urban,Alps,Alps-Urban,10832
+3861,Fideris,18,GR,Rural,Alps,Alps-Rural,595
+3862,Furna,18,GR,Rural,Alps,Alps-Rural,207
+3863,Jenaz,18,GR,Rural,Alps,Alps-Rural,1147
+3871,Klosters,18,GR,Rural,Alps,Alps-Rural,4416
+3881,Conters im Prättigau,18,GR,Rural,Alps,Alps-Rural,220
+3882,Küblis,18,GR,Rural,Alps,Alps-Rural,891
+3891,Luzein,18,GR,Rural,Alps,Alps-Rural,1596
+3901,Chur,18,GR,Urban,Alps,Alps-Urban,37424
+3911,Churwalden,18,GR,Rural,Alps,Alps-Rural,1936
+3921,Arosa,18,GR,Rural,Alps,Alps-Rural,3162
+3932,Tschiertschen-Praden,18,GR,Periurban,Alps,Alps-Periurban,300
+3945,Trimmis,18,GR,Periurban,Alps,Alps-Periurban,3322
+3946,Untervaz,18,GR,Periurban,Alps,Alps-Periurban,2527
+3947,Zizers,18,GR,Urban,Alps,Alps-Urban,3520
+3951,Fläsch,18,GR,Rural,Alps,Alps-Rural,831
+3952,Jenins,18,GR,Rural,Alps,Alps-Rural,915
+3953,Maienfeld,18,GR,Rural,Alps,Alps-Rural,3029
+3954,Malans,18,GR,Rural,Alps,Alps-Rural,2462
+3955,Landquart,18,GR,Urban,Alps,Alps-Urban,8857
+3961,Grüsch,18,GR,Rural,Alps,Alps-Rural,2115
+3962,Schiers,18,GR,Rural,Alps,Alps-Rural,2727
+3972,Seewis im Prättigau,18,GR,Rural,Alps,Alps-Rural,1376
+3981,Breil/Brigels,18,GR,Rural,Alps,Alps-Rural,1731
+3982,Disentis/Mustér,18,GR,Rural,Alps,Alps-Rural,2009
+3983,Medel (Lucmagn),18,GR,Rural,Alps,Alps-Rural,344
+3985,Sumvitg,18,GR,Rural,Alps,Alps-Rural,1104
+3986,Tujetsch,18,GR,Rural,Alps,Alps-Rural,1183
+3987,Trun,18,GR,Rural,Alps,Alps-Rural,1161
+3988,Obersaxen Mundaun,18,GR,Rural,Alps,Alps-Rural,1164
+4001,Aarau,19,AG,Urban,Midlands,Midlands-Urban,21726
+4002,Biberstein,19,AG,Periurban,Midlands,Midlands-Periurban,1588
+4003,Buchs (AG),19,AG,Urban,Midlands,Midlands-Urban,8121
+4004,Densbüren,19,AG,Periurban,Jura,Jura-Periurban,728
+4005,Erlinsbach (AG),19,AG,Urban,Midlands,Midlands-Urban,4400
+4006,Gränichen,19,AG,Urban,Midlands,Midlands-Urban,8147
+4007,Hirschthal,19,AG,Periurban,Midlands,Midlands-Periurban,1645
+4008,Küttigen,19,AG,Urban,Midlands,Midlands-Urban,6295
+4009,Muhen,19,AG,Periurban,Midlands,Midlands-Periurban,3985
+4010,Oberentfelden,19,AG,Urban,Midlands,Midlands-Urban,8568
+4012,Suhr,19,AG,Urban,Midlands,Midlands-Urban,10724
+4013,Unterentfelden,19,AG,Urban,Midlands,Midlands-Urban,4382
+4021,Baden,19,AG,Urban,Midlands,Midlands-Urban,19621
+4022,Bellikon,19,AG,Periurban,Midlands,Midlands-Periurban,1544
+4023,Bergdietikon,19,AG,Urban,Midlands,Midlands-Urban,2909
+4024,Birmenstorf (AG),19,AG,Periurban,Midlands,Midlands-Periurban,2962
+4026,Ennetbaden,19,AG,Urban,Midlands,Midlands-Urban,3486
+4027,Fislisbach,19,AG,Urban,Midlands,Midlands-Urban,5578
+4028,Freienwil,19,AG,Periurban,Midlands,Midlands-Periurban,1110
+4029,Gebenstorf,19,AG,Urban,Midlands,Midlands-Urban,5514
+4030,Killwangen,19,AG,Urban,Midlands,Midlands-Urban,2051
+4031,Künten,19,AG,Periurban,Midlands,Midlands-Periurban,1838
+4032,Mägenwil,19,AG,Periurban,Midlands,Midlands-Periurban,2139
+4033,Mellingen,19,AG,Periurban,Midlands,Midlands-Periurban,5865
+4034,Neuenhof,19,AG,Urban,Midlands,Midlands-Urban,8954
+4035,Niederrohrdorf,19,AG,Periurban,Midlands,Midlands-Periurban,4225
+4037,Oberrohrdorf,19,AG,Periurban,Midlands,Midlands-Periurban,4037
+4038,Obersiggenthal,19,AG,Urban,Midlands,Midlands-Urban,8661
+4039,Remetschwil,19,AG,Periurban,Midlands,Midlands-Periurban,2023
+4040,Spreitenbach,19,AG,Urban,Midlands,Midlands-Urban,12126
+4041,Stetten (AG),19,AG,Periurban,Midlands,Midlands-Periurban,2224
+4042,Turgi,19,AG,Urban,Midlands,Midlands-Urban,2963
+4044,Untersiggenthal,19,AG,Urban,Midlands,Midlands-Urban,7229
+4045,Wettingen,19,AG,Urban,Midlands,Midlands-Urban,21099
+4046,Wohlenschwil,19,AG,Periurban,Midlands,Midlands-Periurban,1677
+4047,Würenlingen,19,AG,Periurban,Midlands,Midlands-Periurban,4838
+4048,Würenlos,19,AG,Urban,Midlands,Midlands-Urban,6511
+4049,Ehrendingen,19,AG,Periurban,Midlands,Midlands-Periurban,4880
+4061,Arni (AG),19,AG,Periurban,Midlands,Midlands-Periurban,1888
+4062,Berikon,19,AG,Urban,Midlands,Midlands-Urban,4749
+4063,Bremgarten (AG),19,AG,Urban,Midlands,Midlands-Urban,8415
+4064,Büttikon,19,AG,Periurban,Midlands,Midlands-Periurban,1061
+4065,Dottikon,19,AG,Periurban,Midlands,Midlands-Periurban,3932
+4066,Eggenwil,19,AG,Periurban,Midlands,Midlands-Periurban,1042
+4067,Fischbach-Göslikon,19,AG,Periurban,Midlands,Midlands-Periurban,1672
+4068,Hägglingen,19,AG,Periurban,Midlands,Midlands-Periurban,2437
+4071,Jonen,19,AG,Periurban,Midlands,Midlands-Periurban,2210
+4072,Niederwil (AG),19,AG,Periurban,Midlands,Midlands-Periurban,2863
+4073,Oberlunkhofen,19,AG,Periurban,Midlands,Midlands-Periurban,2079
+4074,Oberwil-Lieli,19,AG,Periurban,Midlands,Midlands-Periurban,2501
+4075,Rudolfstetten-Friedlisberg,19,AG,Urban,Midlands,Midlands-Urban,4546
+4076,Sarmenstorf,19,AG,Rural,Midlands,Midlands-Rural,2913
+4077,Tägerig,19,AG,Periurban,Midlands,Midlands-Periurban,1470
+4078,Uezwil,19,AG,Periurban,Midlands,Midlands-Periurban,504
+4079,Unterlunkhofen,19,AG,Periurban,Midlands,Midlands-Periurban,1499
+4080,Villmergen,19,AG,Urban,Midlands,Midlands-Urban,7668
+4081,Widen,19,AG,Urban,Midlands,Midlands-Urban,3845
+4082,Wohlen (AG),19,AG,Urban,Midlands,Midlands-Urban,16881
+4083,Zufikon,19,AG,Urban,Midlands,Midlands-Urban,4548
+4084,Islisberg,19,AG,Periurban,Midlands,Midlands-Periurban,643
+4091,Auenstein,19,AG,Periurban,Midlands,Midlands-Periurban,1613
+4092,Birr,19,AG,Periurban,Midlands,Midlands-Periurban,4598
+4093,Birrhard,19,AG,Periurban,Midlands,Midlands-Periurban,742
+4095,Brugg,19,AG,Urban,Midlands,Midlands-Urban,12738
+4099,Habsburg,19,AG,Periurban,Midlands,Midlands-Periurban,428
+4100,Hausen (AG),19,AG,Urban,Midlands,Midlands-Urban,3734
+4104,Lupfig,19,AG,Periurban,Midlands,Midlands-Periurban,3157
+4105,Mandach,19,AG,Rural,Jura,Jura-Rural,325
+4106,Mönthal,19,AG,Periurban,Jura,Jura-Periurban,393
+4107,Mülligen,19,AG,Periurban,Midlands,Midlands-Periurban,1074
+4110,Remigen,19,AG,Periurban,Midlands,Midlands-Periurban,1326
+4111,Riniken,19,AG,Periurban,Midlands,Midlands-Periurban,1482
+4112,Rüfenach,19,AG,Periurban,Midlands,Midlands-Periurban,863
+4117,Thalheim (AG),19,AG,Periurban,Jura,Jura-Periurban,820
+4120,Veltheim (AG),19,AG,Periurban,Midlands,Midlands-Periurban,1526
+4121,Villigen,19,AG,Periurban,Midlands,Midlands-Periurban,2120
+4122,Villnachern,19,AG,Periurban,Midlands,Midlands-Periurban,1654
+4123,Windisch,19,AG,Urban,Midlands,Midlands-Urban,7733
+4124,Bözberg,19,AG,Periurban,Midlands,Midlands-Periurban,1663
+4125,Schinznach,19,AG,Periurban,Midlands,Midlands-Periurban,2319
+4131,Beinwil am See,19,AG,Urban,Midlands,Midlands-Urban,3418
+4132,Birrwil,19,AG,Rural,Midlands,Midlands-Rural,1185
+4133,Burg (AG),19,AG,Urban,Midlands,Midlands-Urban,1033
+4134,Dürrenäsch,19,AG,Rural,Midlands,Midlands-Rural,1329
+4135,Gontenschwil,19,AG,Rural,Midlands,Midlands-Rural,2130
+4136,Holziken,19,AG,Periurban,Midlands,Midlands-Periurban,1543
+4137,Leimbach (AG),19,AG,Rural,Midlands,Midlands-Rural,489
+4138,Leutwil,19,AG,Rural,Midlands,Midlands-Rural,745
+4139,Menziken,19,AG,Urban,Midlands,Midlands-Urban,6518
+4140,Oberkulm,19,AG,Rural,Midlands,Midlands-Rural,2776
+4141,Reinach (AG),19,AG,Urban,Midlands,Midlands-Urban,8874
+4142,Schlossrued,19,AG,Rural,Midlands,Midlands-Rural,822
+4143,Schmiedrued,19,AG,Rural,Midlands,Midlands-Rural,1160
+4144,Schöftland,19,AG,Periurban,Midlands,Midlands-Periurban,4468
+4145,Teufenthal (AG),19,AG,Rural,Midlands,Midlands-Rural,1682
+4146,Unterkulm,19,AG,Rural,Midlands,Midlands-Rural,3343
+4147,Zetzwil,19,AG,Rural,Midlands,Midlands-Rural,1363
+4161,Eiken,19,AG,Periurban,Midlands,Midlands-Periurban,2331
+4163,Frick,19,AG,Rural,Jura,Jura-Rural,5629
+4164,Gansingen,19,AG,Periurban,Jura,Jura-Periurban,1066
+4165,Gipf-Oberfrick,19,AG,Rural,Jura,Jura-Rural,3731
+4166,Herznach,19,AG,Periurban,Jura,Jura-Periurban,1568
+4169,Kaisten,19,AG,Rural,Midlands,Midlands-Rural,2754
+4170,Laufenburg,19,AG,Rural,Midlands,Midlands-Rural,3659
+4172,Münchwilen (AG),19,AG,Urban,Midlands,Midlands-Urban,1007
+4173,Oberhof,19,AG,Rural,Jura,Jura-Rural,570
+4175,Oeschgen,19,AG,Rural,Midlands,Midlands-Rural,1049
+4176,Schwaderloch,19,AG,Rural,Midlands,Midlands-Rural,689
+4177,Sisseln,19,AG,Periurban,Midlands,Midlands-Periurban,1661
+4179,Ueken,19,AG,Periurban,Jura,Jura-Periurban,909
+4181,Wittnau,19,AG,Rural,Jura,Jura-Rural,1365
+4182,Wölflinswil,19,AG,Rural,Jura,Jura-Rural,1033
+4183,Zeihen,19,AG,Periurban,Jura,Jura-Periurban,1170
+4184,Mettauertal,19,AG,Rural,Jura,Jura-Rural,2067
+4185,Böztal,19,AG,Rural,Jura,Jura-Rural,2755
+4191,Ammerswil,19,AG,Periurban,Midlands,Midlands-Periurban,735
+4192,Boniswil,19,AG,Rural,Midlands,Midlands-Rural,1520
+4193,Brunegg,19,AG,Periurban,Midlands,Midlands-Periurban,866
+4194,Dintikon,19,AG,Periurban,Midlands,Midlands-Periurban,2317
+4195,Egliswil,19,AG,Periurban,Midlands,Midlands-Periurban,1484
+4196,Fahrwangen,19,AG,Rural,Midlands,Midlands-Rural,2338
+4197,Hallwil,19,AG,Rural,Midlands,Midlands-Rural,949
+4198,Hendschiken,19,AG,Periurban,Midlands,Midlands-Periurban,1336
+4199,Holderbank (AG),19,AG,Urban,Midlands,Midlands-Urban,1408
+4200,Hunzenschwil,19,AG,Periurban,Midlands,Midlands-Periurban,4209
+4201,Lenzburg,19,AG,Urban,Midlands,Midlands-Urban,11024
+4202,Meisterschwanden,19,AG,Rural,Midlands,Midlands-Rural,3032
+4203,Möriken-Wildegg,19,AG,Urban,Midlands,Midlands-Urban,4561
+4204,Niederlenz,19,AG,Urban,Midlands,Midlands-Urban,4841
+4205,Othmarsingen,19,AG,Periurban,Midlands,Midlands-Periurban,3037
+4206,Rupperswil,19,AG,Periurban,Midlands,Midlands-Periurban,5618
+4207,Schafisheim,19,AG,Periurban,Midlands,Midlands-Periurban,3044
+4208,Seengen,19,AG,Rural,Midlands,Midlands-Rural,4122
+4209,Seon,19,AG,Rural,Midlands,Midlands-Rural,5198
+4210,Staufen,19,AG,Urban,Midlands,Midlands-Urban,4068
+4221,Abtwil,19,AG,Periurban,Midlands,Midlands-Periurban,954
+4222,Aristau,19,AG,Periurban,Midlands,Midlands-Periurban,1512
+4223,Auw,19,AG,Periurban,Midlands,Midlands-Periurban,2203
+4224,Beinwil (Freiamt),19,AG,Rural,Midlands,Midlands-Rural,1183
+4226,Besenbüren,19,AG,Periurban,Midlands,Midlands-Periurban,632
+4227,Bettwil,19,AG,Rural,Midlands,Midlands-Rural,654
+4228,Boswil,19,AG,Rural,Midlands,Midlands-Rural,2923
+4229,Bünzen,19,AG,Periurban,Midlands,Midlands-Periurban,1128
+4230,Buttwil,19,AG,Rural,Midlands,Midlands-Rural,1234
+4231,Dietwil,19,AG,Periurban,Midlands,Midlands-Periurban,1355
+4232,Geltwil,19,AG,Rural,Midlands,Midlands-Rural,221
+4233,Kallern,19,AG,Rural,Midlands,Midlands-Rural,399
+4234,Merenschwand,19,AG,Periurban,Midlands,Midlands-Periurban,3712
+4235,Mühlau,19,AG,Periurban,Midlands,Midlands-Periurban,1218
+4236,Muri (AG),19,AG,Rural,Midlands,Midlands-Rural,8244
+4237,Oberrüti,19,AG,Periurban,Midlands,Midlands-Periurban,1544
+4238,Rottenschwil,19,AG,Periurban,Midlands,Midlands-Periurban,911
+4239,Sins,19,AG,Periurban,Midlands,Midlands-Periurban,4299
+4240,Waltenschwil,19,AG,Periurban,Midlands,Midlands-Periurban,3053
+4251,Hellikon,19,AG,Periurban,Jura,Jura-Periurban,780
+4252,Kaiseraugst,19,AG,Urban,Midlands,Midlands-Urban,5550
+4253,Magden,19,AG,Periurban,Jura,Jura-Periurban,3872
+4254,Möhlin,19,AG,Periurban,Midlands,Midlands-Periurban,11088
+4255,Mumpf,19,AG,Periurban,Midlands,Midlands-Periurban,1543
+4256,Obermumpf,19,AG,Periurban,Jura,Jura-Periurban,1048
+4257,Olsberg,19,AG,Periurban,Jura,Jura-Periurban,356
+4258,Rheinfelden,19,AG,Urban,Midlands,Midlands-Urban,13551
+4259,Schupfart,19,AG,Periurban,Jura,Jura-Periurban,803
+4260,Stein (AG),19,AG,Urban,Midlands,Midlands-Urban,3253
+4261,Wallbach,19,AG,Urban,Midlands,Midlands-Urban,1999
+4262,Wegenstetten,19,AG,Periurban,Jura,Jura-Periurban,1040
+4263,Zeiningen,19,AG,Periurban,Midlands,Midlands-Periurban,2400
+4264,Zuzgen,19,AG,Periurban,Jura,Jura-Periurban,881
+4271,Aarburg,19,AG,Urban,Midlands,Midlands-Urban,8577
+4273,Bottenwil,19,AG,Periurban,Midlands,Midlands-Periurban,823
+4274,Brittnau,19,AG,Urban,Midlands,Midlands-Urban,3968
+4275,Kirchleerau,19,AG,Rural,Midlands,Midlands-Rural,898
+4276,Kölliken,19,AG,Periurban,Midlands,Midlands-Periurban,4559
+4277,Moosleerau,19,AG,Rural,Midlands,Midlands-Rural,915
+4279,Murgenthal,19,AG,Rural,Midlands,Midlands-Rural,2959
+4280,Oftringen,19,AG,Urban,Midlands,Midlands-Urban,14455
+4281,Reitnau,19,AG,Rural,Midlands,Midlands-Rural,1519
+4282,Rothrist,19,AG,Rural,Midlands,Midlands-Rural,9290
+4283,Safenwil,19,AG,Periurban,Midlands,Midlands-Periurban,4107
+4284,Staffelbach,19,AG,Rural,Midlands,Midlands-Rural,1309
+4285,Strengelbach,19,AG,Urban,Midlands,Midlands-Urban,4859
+4286,Uerkheim,19,AG,Periurban,Midlands,Midlands-Periurban,1342
+4287,Vordemwald,19,AG,Periurban,Midlands,Midlands-Periurban,1992
+4288,Wiliberg,19,AG,Periurban,Midlands,Midlands-Periurban,167
+4289,Zofingen,19,AG,Urban,Midlands,Midlands-Urban,12104
+4303,Böttstein,19,AG,Urban,Midlands,Midlands-Urban,3982
+4304,Döttingen,19,AG,Urban,Midlands,Midlands-Urban,4244
+4305,Endingen,19,AG,Periurban,Midlands,Midlands-Periurban,2597
+4306,Fisibach,19,AG,Periurban,Midlands,Midlands-Periurban,543
+4307,Full-Reuenthal,19,AG,Rural,Midlands,Midlands-Rural,883
+4309,Klingnau,19,AG,Urban,Midlands,Midlands-Urban,3540
+4310,Koblenz,19,AG,Rural,Midlands,Midlands-Rural,1671
+4311,Leibstadt,19,AG,Rural,Midlands,Midlands-Rural,1404
+4312,Lengnau (AG),19,AG,Periurban,Midlands,Midlands-Periurban,2770
+4313,Leuggern,19,AG,Rural,Midlands,Midlands-Rural,2180
+4314,Mellikon,19,AG,Periurban,Midlands,Midlands-Periurban,228
+4318,Schneisingen,19,AG,Periurban,Midlands,Midlands-Periurban,1491
+4319,Siglistorf,19,AG,Periurban,Midlands,Midlands-Periurban,669
+4320,Tegerfelden,19,AG,Rural,Midlands,Midlands-Rural,1202
+4324,Zurzach,19,AG,Rural,Midlands,Midlands-Rural,7637
+4401,Arbon,20,TG,Urban,Midlands,Midlands-Urban,14950
+4406,Dozwil,20,TG,Periurban,Midlands,Midlands-Periurban,683
+4411,Egnach,20,TG,Periurban,Midlands,Midlands-Periurban,4789
+4416,Hefenhofen,20,TG,Periurban,Midlands,Midlands-Periurban,1277
+4421,Horn,20,TG,Urban,Midlands,Midlands-Urban,2888
+4426,Kesswil,20,TG,Rural,Midlands,Midlands-Rural,998
+4431,Roggwil (TG),20,TG,Periurban,Midlands,Midlands-Periurban,3257
+4436,Romanshorn,20,TG,Urban,Midlands,Midlands-Urban,11327
+4441,Salmsach,20,TG,Urban,Midlands,Midlands-Urban,1481
+4446,Sommeri,20,TG,Rural,Midlands,Midlands-Rural,630
+4451,Uttwil,20,TG,Periurban,Midlands,Midlands-Periurban,1923
+4461,Amriswil,20,TG,Urban,Midlands,Midlands-Urban,14211
+4471,Bischofszell,20,TG,Rural,Midlands,Midlands-Rural,5907
+4476,Erlen,20,TG,Rural,Midlands,Midlands-Rural,3802
+4486,Hauptwil-Gottshaus,20,TG,Rural,Midlands,Midlands-Rural,2017
+4495,Hohentannen,20,TG,Rural,Midlands,Midlands-Rural,612
+4501,Kradolf-Schönenberg,20,TG,Rural,Midlands,Midlands-Rural,3677
+4506,Sulgen,20,TG,Rural,Midlands,Midlands-Rural,3957
+4511,Zihlschlacht-Sitterdorf,20,TG,Rural,Midlands,Midlands-Rural,2483
+4536,Basadingen-Schlattingen,20,TG,Rural,Midlands,Midlands-Rural,1818
+4545,Diessenhofen,20,TG,Rural,Midlands,Midlands-Rural,4085
+4546,Schlatt (TG),20,TG,Periurban,Midlands,Midlands-Periurban,1814
+4551,Aadorf,20,TG,Periurban,Midlands,Midlands-Periurban,9216
+4561,Felben-Wellhausen,20,TG,Periurban,Midlands,Midlands-Periurban,2874
+4566,Frauenfeld,20,TG,Urban,Midlands,Midlands-Urban,25974
+4571,Gachnang,20,TG,Periurban,Midlands,Midlands-Periurban,4483
+4590,Hüttlingen,20,TG,Periurban,Midlands,Midlands-Periurban,829
+4591,Matzingen,20,TG,Periurban,Midlands,Midlands-Periurban,3029
+4601,Neunforn,20,TG,Periurban,Midlands,Midlands-Periurban,1086
+4606,Stettfurt,20,TG,Periurban,Midlands,Midlands-Periurban,1216
+4611,Thundorf,20,TG,Periurban,Midlands,Midlands-Periurban,1513
+4616,Uesslingen-Buch,20,TG,Periurban,Midlands,Midlands-Periurban,1096
+4621,Warth-Weiningen,20,TG,Periurban,Midlands,Midlands-Periurban,1365
+4641,Altnau,20,TG,Rural,Midlands,Midlands-Rural,2343
+4643,Bottighofen,20,TG,Urban,Midlands,Midlands-Urban,2397
+4646,Ermatingen,20,TG,Rural,Midlands,Midlands-Rural,3640
+4651,Gottlieben,20,TG,Periurban,Midlands,Midlands-Periurban,337
+4656,Güttingen,20,TG,Periurban,Midlands,Midlands-Periurban,1668
+4666,Kemmental,20,TG,Rural,Midlands,Midlands-Rural,2603
+4671,Kreuzlingen,20,TG,Urban,Midlands,Midlands-Urban,22390
+4681,Langrickenbach,20,TG,Rural,Midlands,Midlands-Rural,1337
+4683,Lengwil,20,TG,Rural,Midlands,Midlands-Rural,1730
+4691,Münsterlingen,20,TG,Rural,Midlands,Midlands-Rural,3512
+4696,Tägerwilen,20,TG,Rural,Midlands,Midlands-Rural,4921
+4701,Wäldi,20,TG,Rural,Midlands,Midlands-Rural,1055
+4711,Affeltrangen,20,TG,Rural,Midlands,Midlands-Rural,2648
+4716,Bettwiesen,20,TG,Periurban,Midlands,Midlands-Periurban,1228
+4721,Bichelsee-Balterswil,20,TG,Periurban,Midlands,Midlands-Periurban,2949
+4723,Braunau,20,TG,Rural,Midlands,Midlands-Rural,801
+4724,Eschlikon,20,TG,Urban,Midlands,Midlands-Urban,4577
+4726,Fischingen,20,TG,Rural,Alps,Alps-Rural,2836
+4741,Lommis,20,TG,Periurban,Midlands,Midlands-Periurban,1243
+4746,Münchwilen (TG),20,TG,Urban,Midlands,Midlands-Urban,5830
+4751,Rickenbach (TG),20,TG,Urban,Midlands,Midlands-Urban,2826
+4756,Schönholzerswilen,20,TG,Rural,Midlands,Midlands-Rural,839
+4761,Sirnach,20,TG,Urban,Midlands,Midlands-Urban,7901
+4776,Tobel-Tägerschen,20,TG,Rural,Midlands,Midlands-Rural,1589
+4781,Wängi,20,TG,Periurban,Midlands,Midlands-Periurban,4766
+4786,Wilen (TG),20,TG,Urban,Midlands,Midlands-Urban,2523
+4791,Wuppenau,20,TG,Periurban,Midlands,Midlands-Periurban,1135
+4801,Berlingen,20,TG,Rural,Midlands,Midlands-Rural,906
+4806,Eschenz,20,TG,Rural,Midlands,Midlands-Rural,1868
+4811,Herdern,20,TG,Rural,Midlands,Midlands-Rural,1117
+4816,Homburg,20,TG,Rural,Midlands,Midlands-Rural,1543
+4821,Hüttwilen,20,TG,Rural,Midlands,Midlands-Rural,1765
+4826,Mammern,20,TG,Rural,Midlands,Midlands-Rural,677
+4831,Müllheim,20,TG,Periurban,Midlands,Midlands-Periurban,3002
+4841,Pfyn,20,TG,Periurban,Midlands,Midlands-Periurban,2103
+4846,Raperswilen,20,TG,Rural,Midlands,Midlands-Rural,416
+4851,Salenstein,20,TG,Rural,Midlands,Midlands-Rural,1411
+4864,Steckborn,20,TG,Rural,Midlands,Midlands-Rural,3840
+4871,Wagenhausen,20,TG,Rural,Midlands,Midlands-Rural,1770
+4881,Amlikon-Bissegg,20,TG,Rural,Midlands,Midlands-Rural,1332
+4891,Berg (TG),20,TG,Rural,Midlands,Midlands-Rural,3429
+4901,Birwinken,20,TG,Rural,Midlands,Midlands-Rural,1330
+4911,Bürglen (TG),20,TG,Rural,Midlands,Midlands-Rural,3953
+4921,Bussnang,20,TG,Rural,Midlands,Midlands-Rural,2473
+4941,Märstetten,20,TG,Rural,Midlands,Midlands-Rural,2896
+4946,Weinfelden,20,TG,Urban,Midlands,Midlands-Urban,11629
+4951,Wigoltingen,20,TG,Rural,Midlands,Midlands-Rural,2558
+5001,Arbedo-Castione,21,TI,Urban,Alps,Alps-Urban,5024
+5002,Bellinzona,21,TI,Urban,Alps,Alps-Urban,43360
+5003,Cadenazzo,21,TI,Periurban,Alps,Alps-Periurban,2998
+5009,Isone,21,TI,Periurban,Alps,Alps-Periurban,395
+5010,Lumino,21,TI,Periurban,Alps,Alps-Periurban,1587
+5017,Sant'Antonino,21,TI,Periurban,Alps,Alps-Periurban,2542
+5048,Acquarossa,21,TI,Rural,Alps,Alps-Rural,1807
+5049,Blenio,21,TI,Rural,Alps,Alps-Rural,1770
+5050,Serravalle,21,TI,Rural,Alps,Alps-Rural,2079
+5061,Airolo,21,TI,Rural,Alps,Alps-Rural,1476
+5063,Bedretto,21,TI,Rural,Alps,Alps-Rural,102
+5064,Bodio,21,TI,Rural,Alps,Alps-Rural,937
+5071,Dalpe,21,TI,Rural,Alps,Alps-Rural,174
+5072,Faido,21,TI,Rural,Alps,Alps-Rural,2823
+5073,Giornico,21,TI,Rural,Alps,Alps-Rural,806
+5076,Personico,21,TI,Rural,Alps,Alps-Rural,326
+5077,Pollegio,21,TI,Rural,Alps,Alps-Rural,800
+5078,Prato (Leventina),21,TI,Rural,Alps,Alps-Rural,388
+5079,Quinto,21,TI,Rural,Alps,Alps-Rural,995
+5091,Ascona,21,TI,Urban,Alps,Alps-Urban,5554
+5096,Brione sopra Minusio,21,TI,Urban,Alps,Alps-Urban,480
+5097,Brissago,21,TI,Rural,Alps,Alps-Rural,1685
+5108,Gordola,21,TI,Periurban,Alps,Alps-Periurban,4650
+5112,Lavertezzo,21,TI,Periurban,Alps,Alps-Periurban,1245
+5113,Locarno,21,TI,Urban,Alps,Alps-Urban,15728
+5115,Losone,21,TI,Urban,Alps,Alps-Urban,6647
+5117,Mergoscia,21,TI,Periurban,Alps,Alps-Periurban,201
+5118,Minusio,21,TI,Urban,Alps,Alps-Urban,7356
+5120,Muralto,21,TI,Urban,Alps,Alps-Urban,2604
+5121,Orselina,21,TI,Urban,Alps,Alps-Urban,706
+5125,Ronco sopra Ascona,21,TI,Periurban,Alps,Alps-Periurban,550
+5131,Tenero-Contra,21,TI,Periurban,Alps,Alps-Periurban,3201
+5136,Onsernone,21,TI,Rural,Alps,Alps-Rural,663
+5138,Cugnasco-Gerra,21,TI,Periurban,Alps,Alps-Periurban,2780
+5141,Agno,21,TI,Urban,Alps,Alps-Urban,4376
+5143,Aranno,21,TI,Periurban,Alps,Alps-Periurban,354
+5144,Arogno,21,TI,Periurban,Alps,Alps-Periurban,986
+5146,Astano,21,TI,Periurban,Alps,Alps-Periurban,294
+5148,Bedano,21,TI,Urban,Alps,Alps-Urban,1538
+5149,Bedigliora,21,TI,Periurban,Alps,Alps-Periurban,604
+5151,Bioggio,21,TI,Urban,Alps,Alps-Urban,2689
+5154,Bissone,21,TI,Periurban,Alps,Alps-Periurban,948
+5160,Brusino Arsizio,21,TI,Periurban,Alps,Alps-Periurban,451
+5161,Cademario,21,TI,Periurban,Alps,Alps-Periurban,761
+5162,Cadempino,21,TI,Urban,Alps,Alps-Urban,1521
+5167,Canobbio,21,TI,Urban,Alps,Alps-Urban,2302
+5171,Caslano,21,TI,Urban,Alps,Alps-Urban,4327
+5176,Comano,21,TI,Urban,Alps,Alps-Urban,2084
+5180,Cureglia,21,TI,Urban,Alps,Alps-Urban,1434
+5181,Curio,21,TI,Periurban,Alps,Alps-Periurban,578
+5186,Grancia,21,TI,Urban,Alps,Alps-Urban,477
+5187,Gravesano,21,TI,Urban,Alps,Alps-Urban,1359
+5189,Lamone,21,TI,Urban,Alps,Alps-Urban,1694
+5192,Lugano,21,TI,Urban,Alps,Alps-Urban,62315
+5193,Magliaso,21,TI,Urban,Alps,Alps-Urban,1600
+5194,Manno,21,TI,Urban,Alps,Alps-Urban,1290
+5195,Maroggia,21,TI,Periurban,Alps,Alps-Periurban,726
+5196,Massagno,21,TI,Urban,Alps,Alps-Urban,6272
+5197,Melano,21,TI,Periurban,Alps,Alps-Periurban,1454
+5198,Melide,21,TI,Periurban,Alps,Alps-Periurban,1830
+5199,Mezzovico-Vira,21,TI,Periurban,Alps,Alps-Periurban,1387
+5200,Miglieglia,21,TI,Periurban,Alps,Alps-Periurban,324
+5203,Morcote,21,TI,Periurban,Alps,Alps-Periurban,734
+5205,Muzzano,21,TI,Urban,Alps,Alps-Urban,787
+5206,Neggio,21,TI,Urban,Alps,Alps-Urban,322
+5207,Novaggio,21,TI,Periurban,Alps,Alps-Periurban,821
+5208,Origlio,21,TI,Periurban,Alps,Alps-Periurban,1497
+5210,Paradiso,21,TI,Urban,Alps,Alps-Urban,4368
+5212,Ponte Capriasca,21,TI,Periurban,Alps,Alps-Periurban,1871
+5214,Porza,21,TI,Urban,Alps,Alps-Urban,1547
+5216,Pura,21,TI,Urban,Alps,Alps-Urban,1346
+5219,Rovio,21,TI,Periurban,Alps,Alps-Periurban,802
+5221,Savosa,21,TI,Urban,Alps,Alps-Urban,2219
+5225,Sorengo,21,TI,Urban,Alps,Alps-Urban,1863
+5226,Capriasca,21,TI,Periurban,Alps,Alps-Periurban,6755
+5227,Torricella-Taverne,21,TI,Urban,Alps,Alps-Urban,3072
+5230,Vernate,21,TI,Urban,Alps,Alps-Urban,599
+5231,Vezia,21,TI,Urban,Alps,Alps-Urban,1879
+5233,Vico Morcote,21,TI,Periurban,Alps,Alps-Periurban,422
+5236,Collina d'Oro,21,TI,Urban,Alps,Alps-Urban,4604
+5237,Alto Malcantone,21,TI,Periurban,Alps,Alps-Periurban,1380
+5238,Monteceneri,21,TI,Periurban,Alps,Alps-Periurban,4535
+5239,Tresa,21,TI,Urban,Alps,Alps-Urban,3158
+5242,Balerna,21,TI,Urban,Alps,Alps-Urban,3240
+5249,Castel San Pietro,21,TI,Urban,Alps,Alps-Urban,2194
+5250,Chiasso,21,TI,Urban,Alps,Alps-Urban,7581
+5251,Coldrerio,21,TI,Urban,Alps,Alps-Urban,2867
+5254,Mendrisio,21,TI,Urban,Alps,Alps-Urban,14902
+5257,Morbio Inferiore,21,TI,Urban,Alps,Alps-Urban,4441
+5260,Novazzano,21,TI,Urban,Alps,Alps-Urban,2338
+5263,Riva San Vitale,21,TI,Urban,Alps,Alps-Urban,2626
+5266,Stabio,21,TI,Periurban,Alps,Alps-Periurban,4491
+5268,Vacallo,21,TI,Urban,Alps,Alps-Urban,3363
+5269,Breggia,21,TI,Periurban,Alps,Alps-Periurban,1926
+5281,Biasca,21,TI,Rural,Alps,Alps-Rural,6094
+5287,Riviera,21,TI,Rural,Alps,Alps-Rural,4252
+5304,Bosco/Gurin,21,TI,Rural,Alps,Alps-Rural,52
+5307,Campo (Vallemaggia),21,TI,Rural,Alps,Alps-Rural,49
+5309,Cerentino,21,TI,Rural,Alps,Alps-Rural,40
+5310,Cevio,21,TI,Rural,Alps,Alps-Rural,1142
+5315,Linescio,21,TI,Rural,Alps,Alps-Rural,42
+5317,Maggia,21,TI,Periurban,Alps,Alps-Periurban,2611
+5323,Lavizzara,21,TI,Rural,Alps,Alps-Rural,500
+5324,Avegno Gordevio,21,TI,Periurban,Alps,Alps-Periurban,1516
+5391,Comunanza Cadenazzo/Monteceneri,21,TI,Periurban,Alps,Alps-Periurban,
+5394,Comunanza Capriasca/Lugano,21,TI,Periurban,Alps,Alps-Periurban,
+5396,Terre di Pedemonte,21,TI,Periurban,Alps,Alps-Periurban,2627
+5397,Centovalli,21,TI,Periurban,Alps,Alps-Periurban,1135
+5398,Gambarogno,21,TI,Periurban,Alps,Alps-Periurban,5163
+5399,Verzasca,21,TI,Rural,Alps,Alps-Rural,799
+5401,Aigle,22,VD,Urban,Alps,Alps-Urban,10462
+5402,Bex,22,VD,Rural,Alps,Alps-Rural,7845
+5403,Chessel,22,VD,Rural,Alps,Alps-Rural,444
+5404,Corbeyrier,22,VD,Rural,Alps,Alps-Rural,445
+5405,Gryon,22,VD,Rural,Alps,Alps-Rural,1376
+5406,Lavey-Morcles,22,VD,Rural,Alps,Alps-Rural,944
+5407,Leysin,22,VD,Rural,Alps,Alps-Rural,3623
+5408,Noville,22,VD,Periurban,Alps,Alps-Periurban,1178
+5409,Ollon,22,VD,Rural,Alps,Alps-Rural,7624
+5410,Ormont-Dessous,22,VD,Rural,Alps,Alps-Rural,1182
+5411,Ormont-Dessus,22,VD,Rural,Alps,Alps-Rural,1467
+5412,Rennaz,22,VD,Periurban,Alps,Alps-Periurban,892
+5413,Roche (VD),22,VD,Periurban,Alps,Alps-Periurban,1867
+5414,Villeneuve (VD),22,VD,Periurban,Alps,Alps-Periurban,5834
+5415,Yvorne,22,VD,Rural,Alps,Alps-Rural,1070
+5422,Aubonne,22,VD,Periurban,Midlands,Midlands-Periurban,3756
+5423,Ballens,22,VD,Periurban,Jura,Jura-Periurban,562
+5424,Berolle,22,VD,Periurban,Jura,Jura-Periurban,313
+5425,Bière,22,VD,Rural,Jura,Jura-Rural,1621
+5426,Bougy-Villars,22,VD,Periurban,Midlands,Midlands-Periurban,478
+5427,Féchy,22,VD,Periurban,Midlands,Midlands-Periurban,871
+5428,Gimel,22,VD,Periurban,Jura,Jura-Periurban,2311
+5429,Longirod,22,VD,Periurban,Jura,Jura-Periurban,495
+5430,Marchissy,22,VD,Periurban,Jura,Jura-Periurban,483
+5431,Mollens (VD),22,VD,Periurban,Jura,Jura-Periurban,330
+5434,Saint-George,22,VD,Periurban,Jura,Jura-Periurban,1073
+5435,Saint-Livres,22,VD,Periurban,Midlands,Midlands-Periurban,684
+5436,Saint-Oyens,22,VD,Periurban,Jura,Jura-Periurban,460
+5437,Saubraz,22,VD,Periurban,Jura,Jura-Periurban,423
+5451,Avenches,22,VD,Rural,Midlands,Midlands-Rural,4477
+5456,Cudrefin,22,VD,Periurban,Midlands,Midlands-Periurban,1780
+5458,Faoug,22,VD,Rural,Midlands,Midlands-Rural,879
+5464,Vully-les-Lacs,22,VD,Rural,Midlands,Midlands-Rural,3348
+5471,Bettens,22,VD,Periurban,Midlands,Midlands-Periurban,637
+5472,Bournens,22,VD,Periurban,Midlands,Midlands-Periurban,491
+5473,Boussens,22,VD,Periurban,Midlands,Midlands-Periurban,999
+5474,La Chaux (Cossonay),22,VD,Periurban,Midlands,Midlands-Periurban,392
+5475,Chavannes-le-Veyron,22,VD,Periurban,Midlands,Midlands-Periurban,152
+5476,Chevilly,22,VD,Periurban,Midlands,Midlands-Periurban,317
+5477,Cossonay,22,VD,Periurban,Midlands,Midlands-Periurban,4223
+5479,Cuarnens,22,VD,Periurban,Jura,Jura-Periurban,528
+5480,Daillens,22,VD,Periurban,Midlands,Midlands-Periurban,1051
+5481,Dizy,22,VD,Periurban,Midlands,Midlands-Periurban,223
+5482,Eclépens,22,VD,Periurban,Midlands,Midlands-Periurban,1218
+5483,Ferreyres,22,VD,Periurban,Jura,Jura-Periurban,319
+5484,Gollion,22,VD,Periurban,Midlands,Midlands-Periurban,997
+5485,Grancy,22,VD,Periurban,Midlands,Midlands-Periurban,407
+5486,L'Isle,22,VD,Periurban,Jura,Jura-Periurban,1064
+5487,Lussery-Villars,22,VD,Periurban,Midlands,Midlands-Periurban,458
+5488,Mauraz,22,VD,Periurban,Jura,Jura-Periurban,59
+5489,Mex (VD),22,VD,Periurban,Midlands,Midlands-Periurban,790
+5490,Moiry,22,VD,Rural,Jura,Jura-Rural,311
+5491,Mont-la-Ville,22,VD,Rural,Jura,Jura-Rural,490
+5492,Montricher,22,VD,Periurban,Jura,Jura-Periurban,964
+5493,Orny,22,VD,Periurban,Midlands,Midlands-Periurban,462
+5495,Penthalaz,22,VD,Periurban,Midlands,Midlands-Periurban,3207
+5496,Penthaz,22,VD,Periurban,Midlands,Midlands-Periurban,1855
+5497,Pompaples,22,VD,Rural,Midlands,Midlands-Rural,847
+5498,La Sarraz,22,VD,Periurban,Midlands,Midlands-Periurban,2595
+5499,Senarclens,22,VD,Periurban,Midlands,Midlands-Periurban,492
+5501,Sullens,22,VD,Periurban,Midlands,Midlands-Periurban,1042
+5503,Vufflens-la-Ville,22,VD,Periurban,Midlands,Midlands-Periurban,1351
+5511,Assens,22,VD,Periurban,Midlands,Midlands-Periurban,1669
+5512,Bercher,22,VD,Periurban,Midlands,Midlands-Periurban,1322
+5514,Bottens,22,VD,Periurban,Midlands,Midlands-Periurban,1331
+5515,Bretigny-sur-Morrens,22,VD,Periurban,Midlands,Midlands-Periurban,859
+5516,Cugy (VD),22,VD,Periurban,Midlands,Midlands-Periurban,2762
+5518,Echallens,22,VD,Periurban,Midlands,Midlands-Periurban,5729
+5520,Essertines-sur-Yverdon,22,VD,Periurban,Midlands,Midlands-Periurban,1037
+5521,Etagnières,22,VD,Periurban,Midlands,Midlands-Periurban,1146
+5522,Fey,22,VD,Periurban,Midlands,Midlands-Periurban,749
+5523,Froideville,22,VD,Periurban,Midlands,Midlands-Periurban,2695
+5527,Morrens (VD),22,VD,Periurban,Midlands,Midlands-Periurban,1154
+5529,Oulens-sous-Echallens,22,VD,Periurban,Midlands,Midlands-Periurban,617
+5530,Pailly,22,VD,Periurban,Midlands,Midlands-Periurban,568
+5531,Penthéréaz,22,VD,Periurban,Midlands,Midlands-Periurban,419
+5533,Poliez-Pittet,22,VD,Periurban,Midlands,Midlands-Periurban,830
+5534,Rueyres,22,VD,Periurban,Midlands,Midlands-Periurban,266
+5535,Saint-Barthélemy (VD),22,VD,Periurban,Midlands,Midlands-Periurban,783
+5537,Villars-le-Terroir,22,VD,Periurban,Midlands,Midlands-Periurban,1280
+5539,Vuarrens,22,VD,Periurban,Midlands,Midlands-Periurban,1060
+5540,Montilliez,22,VD,Periurban,Midlands,Midlands-Periurban,1858
+5541,Goumoëns,22,VD,Periurban,Midlands,Midlands-Periurban,1153
+5551,Bonvillars,22,VD,Periurban,Midlands,Midlands-Periurban,489
+5552,Bullet,22,VD,Rural,Jura,Jura-Rural,658
+5553,Champagne,22,VD,Periurban,Midlands,Midlands-Periurban,1062
+5554,Concise,22,VD,Periurban,Midlands,Midlands-Periurban,1001
+5555,Corcelles-près-Concise,22,VD,Periurban,Midlands,Midlands-Periurban,418
+5556,Fiez,22,VD,Periurban,Midlands,Midlands-Periurban,451
+5557,Fontaines-sur-Grandson,22,VD,Periurban,Jura,Jura-Periurban,219
+5559,Giez,22,VD,Periurban,Midlands,Midlands-Periurban,413
+5560,Grandevent,22,VD,Periurban,Jura,Jura-Periurban,226
+5561,Grandson,22,VD,Periurban,Midlands,Midlands-Periurban,3358
+5562,Mauborget,22,VD,Rural,Jura,Jura-Rural,127
+5563,Mutrux,22,VD,Rural,Jura,Jura-Rural,148
+5564,Novalles,22,VD,Periurban,Jura,Jura-Periurban,100
+5565,Onnens (VD),22,VD,Periurban,Midlands,Midlands-Periurban,506
+5566,Provence,22,VD,Rural,Jura,Jura-Rural,392
+5568,Sainte-Croix,22,VD,Rural,Jura,Jura-Rural,4933
+5571,Tévenon,22,VD,Periurban,Jura,Jura-Periurban,894
+5581,Belmont-sur-Lausanne,22,VD,Urban,Midlands,Midlands-Urban,3750
+5582,Cheseaux-sur-Lausanne,22,VD,Periurban,Midlands,Midlands-Periurban,4360
+5583,Crissier,22,VD,Urban,Midlands,Midlands-Urban,8727
+5584,Epalinges,22,VD,Urban,Midlands,Midlands-Urban,9769
+5585,Jouxtens-Mézery,22,VD,Urban,Midlands,Midlands-Urban,1412
+5586,Lausanne,22,VD,Urban,Midlands,Midlands-Urban,140202
+5587,Le Mont-sur-Lausanne,22,VD,Urban,Midlands,Midlands-Urban,9144
+5588,Paudex,22,VD,Urban,Midlands,Midlands-Urban,1540
+5589,Prilly,22,VD,Urban,Midlands,Midlands-Urban,12360
+5590,Pully,22,VD,Urban,Midlands,Midlands-Urban,18694
+5591,Renens (VD),22,VD,Urban,Midlands,Midlands-Urban,20834
+5592,Romanel-sur-Lausanne,22,VD,Urban,Midlands,Midlands-Urban,3240
+5601,Chexbres,22,VD,Periurban,Midlands,Midlands-Periurban,2252
+5604,Forel (Lavaux),22,VD,Periurban,Midlands,Midlands-Periurban,2107
+5606,Lutry,22,VD,Urban,Midlands,Midlands-Urban,10459
+5607,Puidoux,22,VD,Periurban,Midlands,Midlands-Periurban,2888
+5609,Rivaz,22,VD,Periurban,Midlands,Midlands-Periurban,337
+5610,Saint-Saphorin (Lavaux),22,VD,Periurban,Midlands,Midlands-Periurban,389
+5611,Savigny,22,VD,Periurban,Midlands,Midlands-Periurban,3349
+5613,Bourg-en-Lavaux,22,VD,Periurban,Midlands,Midlands-Periurban,5391
+5621,Aclens,22,VD,Periurban,Midlands,Midlands-Periurban,531
+5622,Bremblens,22,VD,Periurban,Midlands,Midlands-Periurban,584
+5623,Buchillon,22,VD,Periurban,Midlands,Midlands-Periurban,687
+5624,Bussigny,22,VD,Urban,Midlands,Midlands-Urban,9603
+5627,Chavannes-près-Renens,22,VD,Urban,Midlands,Midlands-Urban,8460
+5628,Chigny,22,VD,Urban,Midlands,Midlands-Urban,396
+5629,Clarmont,22,VD,Periurban,Midlands,Midlands-Periurban,201
+5631,Denens,22,VD,Periurban,Midlands,Midlands-Periurban,742
+5632,Denges,22,VD,Urban,Midlands,Midlands-Urban,1725
+5633,Echandens,22,VD,Urban,Midlands,Midlands-Urban,2735
+5634,Echichens,22,VD,Periurban,Midlands,Midlands-Periurban,3127
+5635,Ecublens (VD),22,VD,Urban,Midlands,Midlands-Urban,13157
+5636,Etoy,22,VD,Periurban,Midlands,Midlands-Periurban,2906
+5637,Lavigny,22,VD,Periurban,Midlands,Midlands-Periurban,1006
+5638,Lonay,22,VD,Urban,Midlands,Midlands-Urban,2675
+5639,Lully (VD),22,VD,Periurban,Midlands,Midlands-Periurban,823
+5640,Lussy-sur-Morges,22,VD,Periurban,Midlands,Midlands-Periurban,722
+5642,Morges,22,VD,Urban,Midlands,Midlands-Urban,16101
+5643,Préverenges,22,VD,Urban,Midlands,Midlands-Urban,5242
+5645,Romanel-sur-Morges,22,VD,Periurban,Midlands,Midlands-Periurban,467
+5646,Saint-Prex,22,VD,Periurban,Midlands,Midlands-Periurban,5855
+5648,Saint-Sulpice (VD),22,VD,Urban,Midlands,Midlands-Urban,4914
+5649,Tolochenaz,22,VD,Urban,Midlands,Midlands-Urban,1892
+5650,Vaux-sur-Morges,22,VD,Periurban,Midlands,Midlands-Periurban,194
+5651,Villars-Sainte-Croix,22,VD,Urban,Midlands,Midlands-Urban,960
+5652,Villars-sous-Yens,22,VD,Periurban,Midlands,Midlands-Periurban,612
+5653,Vufflens-le-Château,22,VD,Periurban,Midlands,Midlands-Periurban,872
+5654,Vullierens,22,VD,Periurban,Midlands,Midlands-Periurban,542
+5655,Yens,22,VD,Periurban,Midlands,Midlands-Periurban,1479
+5656,Hautemorges,22,VD,Periurban,Midlands,Midlands-Periurban,4106
+5661,Boulens,22,VD,Periurban,Midlands,Midlands-Periurban,369
+5663,Bussy-sur-Moudon,22,VD,Periurban,Midlands,Midlands-Periurban,218
+5665,Chavannes-sur-Moudon,22,VD,Periurban,Midlands,Midlands-Periurban,223
+5669,Curtilles,22,VD,Rural,Midlands,Midlands-Rural,300
+5671,Dompierre (VD),22,VD,Rural,Midlands,Midlands-Rural,245
+5673,Hermenches,22,VD,Periurban,Midlands,Midlands-Periurban,382
+5674,Lovatens,22,VD,Rural,Midlands,Midlands-Rural,142
+5675,Lucens,22,VD,Rural,Midlands,Midlands-Rural,4298
+5678,Moudon,22,VD,Rural,Midlands,Midlands-Rural,6101
+5680,Ogens,22,VD,Periurban,Midlands,Midlands-Periurban,301
+5683,Prévonloup,22,VD,Rural,Midlands,Midlands-Rural,202
+5684,Rossenges,22,VD,Periurban,Midlands,Midlands-Periurban,84
+5688,Syens,22,VD,Periurban,Midlands,Midlands-Periurban,156
+5690,Villars-le-Comte,22,VD,Periurban,Midlands,Midlands-Periurban,120
+5692,Vucherens,22,VD,Periurban,Midlands,Midlands-Periurban,618
+5693,Montanaire,22,VD,Periurban,Midlands,Midlands-Periurban,2777
+5701,Arnex-sur-Nyon,22,VD,Periurban,Midlands,Midlands-Periurban,242
+5702,Arzier-Le Muids,22,VD,Periurban,Jura,Jura-Periurban,2916
+5703,Bassins,22,VD,Periurban,Jura,Jura-Periurban,1464
+5704,Begnins,22,VD,Periurban,Midlands,Midlands-Periurban,1928
+5705,Bogis-Bossey,22,VD,Urban,Midlands,Midlands-Urban,847
+5706,Borex,22,VD,Periurban,Midlands,Midlands-Periurban,1153
+5707,Chavannes-de-Bogis,22,VD,Urban,Midlands,Midlands-Urban,1341
+5708,Chavannes-des-Bois,22,VD,Periurban,Midlands,Midlands-Periurban,1002
+5709,Chéserex,22,VD,Periurban,Jura,Jura-Periurban,1249
+5710,Coinsins,22,VD,Periurban,Midlands,Midlands-Periurban,509
+5711,Commugny,22,VD,Urban,Midlands,Midlands-Urban,3004
+5712,Coppet,22,VD,Urban,Midlands,Midlands-Urban,3280
+5713,Crans (VD),22,VD,Periurban,Midlands,Midlands-Periurban,2336
+5714,Crassier,22,VD,Periurban,Midlands,Midlands-Periurban,1172
+5715,Duillier,22,VD,Periurban,Midlands,Midlands-Periurban,1131
+5716,Eysins,22,VD,Urban,Midlands,Midlands-Urban,1738
+5717,Founex,22,VD,Urban,Midlands,Midlands-Urban,3874
+5718,Genolier,22,VD,Periurban,Jura,Jura-Periurban,1989
+5719,Gingins,22,VD,Periurban,Jura,Jura-Periurban,1252
+5720,Givrins,22,VD,Periurban,Jura,Jura-Periurban,1031
+5721,Gland,22,VD,Urban,Midlands,Midlands-Urban,13258
+5722,Grens,22,VD,Periurban,Midlands,Midlands-Periurban,406
+5723,Mies,22,VD,Urban,Midlands,Midlands-Urban,2165
+5724,Nyon,22,VD,Urban,Midlands,Midlands-Urban,21718
+5725,Prangins,22,VD,Urban,Midlands,Midlands-Urban,4099
+5726,La Rippe,22,VD,Periurban,Jura,Jura-Periurban,1137
+5727,Saint-Cergue,22,VD,Periurban,Jura,Jura-Periurban,2674
+5728,Signy-Avenex,22,VD,Periurban,Midlands,Midlands-Periurban,585
+5729,Tannay,22,VD,Urban,Midlands,Midlands-Urban,1641
+5730,Trélex,22,VD,Periurban,Jura,Jura-Periurban,1449
+5731,Le Vaud,22,VD,Periurban,Jura,Jura-Periurban,1364
+5732,Vich,22,VD,Urban,Midlands,Midlands-Urban,1155
+5741,L'Abergement,22,VD,Rural,Jura,Jura-Rural,256
+5742,Agiez,22,VD,Rural,Midlands,Midlands-Rural,376
+5743,Arnex-sur-Orbe,22,VD,Rural,Midlands,Midlands-Rural,637
+5744,Ballaigues,22,VD,Rural,Jura,Jura-Rural,1144
+5745,Baulmes,22,VD,Periurban,Jura,Jura-Periurban,1075
+5746,Bavois,22,VD,Periurban,Midlands,Midlands-Periurban,994
+5747,Bofflens,22,VD,Rural,Midlands,Midlands-Rural,207
+5748,Bretonnières,22,VD,Rural,Jura,Jura-Rural,267
+5749,Chavornay,22,VD,Periurban,Midlands,Midlands-Periurban,5229
+5750,Les Clées,22,VD,Rural,Jura,Jura-Rural,187
+5752,Croy,22,VD,Periurban,Jura,Jura-Periurban,397
+5754,Juriens,22,VD,Rural,Jura,Jura-Rural,336
+5755,Lignerolle,22,VD,Rural,Jura,Jura-Rural,435
+5756,Montcherand,22,VD,Rural,Midlands,Midlands-Rural,505
+5757,Orbe,22,VD,Periurban,Midlands,Midlands-Periurban,7108
+5758,La Praz,22,VD,Rural,Jura,Jura-Rural,175
+5759,Premier,22,VD,Rural,Jura,Jura-Rural,218
+5760,Rances,22,VD,Periurban,Jura,Jura-Periurban,513
+5761,Romainmôtier-Envy,22,VD,Rural,Jura,Jura-Rural,526
+5762,Sergey,22,VD,Rural,Jura,Jura-Rural,145
+5763,Valeyres-sous-Rances,22,VD,Periurban,Midlands,Midlands-Periurban,610
+5764,Vallorbe,22,VD,Rural,Jura,Jura-Rural,3863
+5765,Vaulion,22,VD,Rural,Jura,Jura-Rural,505
+5766,Vuiteboeuf,22,VD,Periurban,Jura,Jura-Periurban,588
+5785,Corcelles-le-Jorat,22,VD,Periurban,Midlands,Midlands-Periurban,451
+5790,Maracon,22,VD,Periurban,Midlands,Midlands-Periurban,537
+5792,Montpreveyres,22,VD,Periurban,Midlands,Midlands-Periurban,653
+5798,Ropraz,22,VD,Periurban,Midlands,Midlands-Periurban,529
+5799,Servion,22,VD,Periurban,Midlands,Midlands-Periurban,2078
+5803,Vulliens,22,VD,Periurban,Midlands,Midlands-Periurban,625
+5804,Jorat-Menthue,22,VD,Periurban,Midlands,Midlands-Periurban,1602
+5805,Oron,22,VD,Periurban,Midlands,Midlands-Periurban,6054
+5806,Jorat-Mézières,22,VD,Periurban,Midlands,Midlands-Periurban,2968
+5812,Champtauroz,22,VD,Rural,Midlands,Midlands-Rural,144
+5813,Chevroux,22,VD,Rural,Midlands,Midlands-Rural,494
+5816,Corcelles-près-Payerne,22,VD,Urban,Midlands,Midlands-Urban,2683
+5817,Grandcour,22,VD,Rural,Midlands,Midlands-Rural,967
+5819,Henniez,22,VD,Rural,Midlands,Midlands-Rural,391
+5821,Missy,22,VD,Rural,Midlands,Midlands-Rural,368
+5822,Payerne,22,VD,Urban,Midlands,Midlands-Urban,10069
+5827,Trey,22,VD,Rural,Midlands,Midlands-Rural,302
+5828,Treytorrens (Payerne),22,VD,Rural,Midlands,Midlands-Rural,114
+5830,Villarzel,22,VD,Rural,Midlands,Midlands-Rural,477
+5831,Valbroye,22,VD,Rural,Midlands,Midlands-Rural,3365
+5841,Château-d'Oex,22,VD,Rural,Alps,Alps-Rural,3487
+5842,Rossinière,22,VD,Rural,Alps,Alps-Rural,534
+5843,Rougemont,22,VD,Rural,Alps,Alps-Rural,864
+5851,Allaman,22,VD,Periurban,Midlands,Midlands-Periurban,442
+5852,Bursinel,22,VD,Periurban,Midlands,Midlands-Periurban,492
+5853,Bursins,22,VD,Periurban,Midlands,Midlands-Periurban,779
+5854,Burtigny,22,VD,Periurban,Jura,Jura-Periurban,403
+5855,Dully,22,VD,Periurban,Midlands,Midlands-Periurban,624
+5856,Essertines-sur-Rolle,22,VD,Periurban,Midlands,Midlands-Periurban,741
+5857,Gilly,22,VD,Periurban,Midlands,Midlands-Periurban,1428
+5858,Luins,22,VD,Periurban,Midlands,Midlands-Periurban,619
+5859,Mont-sur-Rolle,22,VD,Periurban,Midlands,Midlands-Periurban,2658
+5860,Perroy,22,VD,Periurban,Midlands,Midlands-Periurban,1518
+5861,Rolle,22,VD,Periurban,Midlands,Midlands-Periurban,6260
+5862,Tartegnin,22,VD,Periurban,Midlands,Midlands-Periurban,238
+5863,Vinzel,22,VD,Periurban,Midlands,Midlands-Periurban,385
+5871,L'Abbaye,22,VD,Rural,Jura,Jura-Rural,1474
+5872,Le Chenit,22,VD,Rural,Jura,Jura-Rural,4595
+5873,Le Lieu,22,VD,Rural,Jura,Jura-Rural,887
+5882,Chardonne,22,VD,Urban,Midlands,Midlands-Urban,3092
+5883,Corseaux,22,VD,Urban,Midlands,Midlands-Urban,2315
+5884,Corsier-sur-Vevey,22,VD,Urban,Midlands,Midlands-Urban,3419
+5885,Jongny,22,VD,Urban,Midlands,Midlands-Urban,1671
+5886,Montreux,22,VD,Urban,Alps,Alps-Urban,26090
+5889,La Tour-de-Peilz,22,VD,Urban,Midlands,Midlands-Urban,12068
+5890,Vevey,22,VD,Urban,Midlands,Midlands-Urban,19752
+5891,Veytaux,22,VD,Urban,Alps,Alps-Urban,952
+5892,Blonay - Saint-Légier,22,VD,Urban,Alps,Alps-Urban,11732
+5902,Belmont-sur-Yverdon,22,VD,Periurban,Midlands,Midlands-Periurban,397
+5903,Bioley-Magnoux,22,VD,Periurban,Midlands,Midlands-Periurban,230
+5904,Chamblon,22,VD,Periurban,Midlands,Midlands-Periurban,560
+5905,Champvent,22,VD,Periurban,Midlands,Midlands-Periurban,696
+5907,Chavannes-le-Chêne,22,VD,Rural,Midlands,Midlands-Rural,324
+5908,Chêne-Pâquier,22,VD,Periurban,Midlands,Midlands-Periurban,143
+5909,Cheseaux-Noréaz,22,VD,Urban,Midlands,Midlands-Urban,740
+5910,Cronay,22,VD,Periurban,Midlands,Midlands-Periurban,396
+5911,Cuarny,22,VD,Periurban,Midlands,Midlands-Periurban,232
+5912,Démoret,22,VD,Rural,Midlands,Midlands-Rural,158
+5913,Donneloye,22,VD,Periurban,Midlands,Midlands-Periurban,828
+5914,Ependes (VD),22,VD,Periurban,Midlands,Midlands-Periurban,389
+5919,Mathod,22,VD,Periurban,Midlands,Midlands-Periurban,651
+5921,Molondin,22,VD,Periurban,Midlands,Midlands-Periurban,252
+5922,Montagny-près-Yverdon,22,VD,Urban,Midlands,Midlands-Urban,738
+5923,Oppens,22,VD,Periurban,Midlands,Midlands-Periurban,204
+5924,Orges,22,VD,Periurban,Midlands,Midlands-Periurban,343
+5925,Orzens,22,VD,Periurban,Midlands,Midlands-Periurban,201
+5926,Pomy,22,VD,Periurban,Midlands,Midlands-Periurban,807
+5928,Rovray,22,VD,Periurban,Midlands,Midlands-Periurban,202
+5929,Suchy,22,VD,Periurban,Midlands,Midlands-Periurban,655
+5930,Suscévaz,22,VD,Periurban,Midlands,Midlands-Periurban,204
+5931,Treycovagnes,22,VD,Periurban,Midlands,Midlands-Periurban,485
+5932,Ursins,22,VD,Periurban,Midlands,Midlands-Periurban,239
+5933,Valeyres-sous-Montagny,22,VD,Urban,Midlands,Midlands-Urban,713
+5934,Valeyres-sous-Ursins,22,VD,Periurban,Midlands,Midlands-Periurban,241
+5935,Villars-Epeney,22,VD,Periurban,Midlands,Midlands-Periurban,100
+5937,Vugelles-La Mothe,22,VD,Periurban,Jura,Jura-Periurban,138
+5938,Yverdon-les-Bains,22,VD,Urban,Midlands,Midlands-Urban,29955
+5939,Yvonand,22,VD,Periurban,Midlands,Midlands-Periurban,3470
+6002,Brig-Glis,23,VS,Urban,Alps,Alps-Urban,13221
+6004,Eggerberg,23,VS,Periurban,Alps,Alps-Periurban,324
+6007,Naters,23,VS,Urban,Alps,Alps-Urban,10290
+6008,Ried-Brig,23,VS,Periurban,Alps,Alps-Periurban,2141
+6009,Simplon,23,VS,Rural,Alps,Alps-Rural,292
+6010,Termen,23,VS,Periurban,Alps,Alps-Periurban,1021
+6011,Zwischbergen,23,VS,Periurban,Alps,Alps-Periurban,71
+6021,Ardon,23,VS,Urban,Alps,Alps-Urban,3379
+6022,Chamoson,23,VS,Rural,Alps,Alps-Rural,3986
+6023,Conthey,23,VS,Urban,Alps,Alps-Urban,8857
+6024,Nendaz,23,VS,Periurban,Alps,Alps-Periurban,6805
+6025,Vétroz,23,VS,Urban,Alps,Alps-Urban,6397
+6032,Bourg-Saint-Pierre,23,VS,Rural,Alps,Alps-Rural,211
+6033,Liddes,23,VS,Rural,Alps,Alps-Rural,735
+6034,Orsières,23,VS,Rural,Alps,Alps-Rural,3194
+6035,Sembrancher,23,VS,Rural,Alps,Alps-Rural,1050
+6037,Val de Bagnes,23,VS,Rural,Alps,Alps-Rural,10329
+6052,Bellwald,23,VS,Rural,Alps,Alps-Rural,354
+6054,Binn,23,VS,Rural,Alps,Alps-Rural,127
+6056,Ernen,23,VS,Rural,Alps,Alps-Rural,518
+6057,Fiesch,23,VS,Rural,Alps,Alps-Rural,909
+6058,Fieschertal,23,VS,Rural,Alps,Alps-Rural,326
+6061,Lax,23,VS,Rural,Alps,Alps-Rural,329
+6076,Obergoms,23,VS,Rural,Alps,Alps-Rural,654
+6077,Goms,23,VS,Rural,Alps,Alps-Rural,1160
+6082,Ayent,23,VS,Periurban,Alps,Alps-Periurban,4137
+6083,Evolène,23,VS,Rural,Alps,Alps-Rural,1647
+6084,Hérémence,23,VS,Periurban,Alps,Alps-Periurban,1433
+6087,Saint-Martin (VS),23,VS,Periurban,Alps,Alps-Periurban,842
+6089,Vex,23,VS,Periurban,Alps,Alps-Periurban,1792
+6090,Mont-Noble,23,VS,Periurban,Alps,Alps-Periurban,1102
+6101,Agarn,23,VS,Rural,Alps,Alps-Rural,705
+6102,Albinen,23,VS,Rural,Alps,Alps-Rural,243
+6104,Ergisch,23,VS,Rural,Alps,Alps-Rural,177
+6109,Inden,23,VS,Rural,Alps,Alps-Rural,115
+6110,Leuk,23,VS,Rural,Alps,Alps-Rural,3991
+6111,Leukerbad,23,VS,Rural,Alps,Alps-Rural,1329
+6112,Oberems,23,VS,Rural,Alps,Alps-Rural,120
+6113,Salgesch,23,VS,Periurban,Alps,Alps-Periurban,1567
+6116,Varen,23,VS,Periurban,Alps,Alps-Periurban,682
+6117,Guttet-Feschel,23,VS,Rural,Alps,Alps-Rural,414
+6118,Gampel-Bratsch,23,VS,Rural,Alps,Alps-Rural,1997
+6119,Turtmann-Unterems,23,VS,Rural,Alps,Alps-Rural,1094
+6131,Bovernier,23,VS,Periurban,Alps,Alps-Periurban,911
+6133,Fully,23,VS,Periurban,Alps,Alps-Periurban,8793
+6134,Isérables,23,VS,Periurban,Alps,Alps-Periurban,827
+6135,Leytron,23,VS,Rural,Alps,Alps-Rural,3230
+6136,Martigny,23,VS,Urban,Alps,Alps-Urban,20276
+6137,Martigny-Combe,23,VS,Urban,Alps,Alps-Urban,2333
+6139,Riddes,23,VS,Periurban,Alps,Alps-Periurban,3277
+6140,Saillon,23,VS,Periurban,Alps,Alps-Periurban,2818
+6141,Saxon,23,VS,Periurban,Alps,Alps-Periurban,6278
+6142,Trient,23,VS,Rural,Alps,Alps-Rural,163
+6151,Champéry,23,VS,Rural,Alps,Alps-Rural,1371
+6152,Collombey-Muraz,23,VS,Urban,Alps,Alps-Urban,9598
+6153,Monthey,23,VS,Urban,Alps,Alps-Urban,17820
+6154,Port-Valais,23,VS,Periurban,Alps,Alps-Periurban,4283
+6155,Saint-Gingolph,23,VS,Rural,Alps,Alps-Rural,964
+6156,Troistorrents,23,VS,Urban,Alps,Alps-Urban,4806
+6157,Val-d'Illiez,23,VS,Rural,Alps,Alps-Rural,2074
+6158,Vionnaz,23,VS,Periurban,Alps,Alps-Periurban,2753
+6159,Vouvry,23,VS,Periurban,Alps,Alps-Periurban,4243
+6172,Bister,23,VS,Periurban,Alps,Alps-Periurban,34
+6173,Bitsch,23,VS,Periurban,Alps,Alps-Periurban,1035
+6177,Grengiols,23,VS,Periurban,Alps,Alps-Periurban,431
+6181,Riederalp,23,VS,Rural,Alps,Alps-Rural,438
+6191,Ausserberg,23,VS,Periurban,Alps,Alps-Periurban,621
+6192,Blatten,23,VS,Rural,Alps,Alps-Rural,296
+6193,Bürchen,23,VS,Periurban,Alps,Alps-Periurban,752
+6194,Eischoll,23,VS,Periurban,Alps,Alps-Periurban,450
+6195,Ferden,23,VS,Rural,Alps,Alps-Rural,247
+6197,Kippel,23,VS,Rural,Alps,Alps-Rural,310
+6198,Niedergesteln,23,VS,Periurban,Alps,Alps-Periurban,744
+6199,Raron,23,VS,Periurban,Alps,Alps-Periurban,1949
+6201,Unterbäch,23,VS,Periurban,Alps,Alps-Periurban,444
+6202,Wiler (Lötschen),23,VS,Rural,Alps,Alps-Rural,565
+6203,Mörel-Filet,23,VS,Periurban,Alps,Alps-Periurban,707
+6204,Steg-Hohtenn,23,VS,Rural,Alps,Alps-Rural,1620
+6205,Bettmeralp,23,VS,Rural,Alps,Alps-Rural,452
+6211,Collonges,23,VS,Rural,Alps,Alps-Rural,832
+6212,Dorénaz,23,VS,Rural,Alps,Alps-Rural,1040
+6213,Evionnaz,23,VS,Rural,Alps,Alps-Rural,1345
+6214,Finhaut,23,VS,Rural,Alps,Alps-Rural,381
+6215,Massongex,23,VS,Periurban,Alps,Alps-Periurban,1923
+6217,Saint-Maurice,23,VS,Rural,Alps,Alps-Rural,4518
+6218,Salvan,23,VS,Rural,Alps,Alps-Rural,1442
+6219,Vernayaz,23,VS,Periurban,Alps,Alps-Periurban,1847
+6220,Vérossaz,23,VS,Rural,Alps,Alps-Rural,774
+6232,Chalais,23,VS,Periurban,Alps,Alps-Periurban,3606
+6235,Chippis,23,VS,Urban,Alps,Alps-Urban,1597
+6238,Grône,23,VS,Periurban,Alps,Alps-Periurban,2485
+6239,Icogne,23,VS,Periurban,Alps,Alps-Periurban,633
+6240,Lens,23,VS,Rural,Alps,Alps-Rural,4317
+6246,Saint-Léonard,23,VS,Periurban,Alps,Alps-Periurban,2460
+6248,Sierre,23,VS,Urban,Alps,Alps-Urban,16819
+6252,Anniviers,23,VS,Rural,Alps,Alps-Rural,2742
+6253,Crans-Montana,23,VS,Urban,Alps,Alps-Urban,10218
+6254,Noble-Contrée,23,VS,Urban,Alps,Alps-Urban,4550
+6261,Arbaz,23,VS,Periurban,Alps,Alps-Periurban,1360
+6263,Grimisuat,23,VS,Urban,Alps,Alps-Urban,3584
+6265,Savièse,23,VS,Urban,Alps,Alps-Urban,7937
+6266,Sion,23,VS,Urban,Alps,Alps-Urban,34978
+6267,Veysonnaz,23,VS,Periurban,Alps,Alps-Periurban,588
+6281,Baltschieder,23,VS,Urban,Alps,Alps-Urban,1305
+6282,Eisten,23,VS,Periurban,Alps,Alps-Periurban,188
+6283,Embd,23,VS,Periurban,Alps,Alps-Periurban,280
+6285,Grächen,23,VS,Rural,Alps,Alps-Rural,1258
+6286,Lalden,23,VS,Urban,Alps,Alps-Urban,668
+6287,Randa,23,VS,Rural,Alps,Alps-Rural,425
+6288,Saas-Almagell,23,VS,Rural,Alps,Alps-Rural,364
+6289,Saas-Balen,23,VS,Rural,Alps,Alps-Rural,351
+6290,Saas-Fee,23,VS,Rural,Alps,Alps-Rural,1559
+6291,Saas-Grund,23,VS,Rural,Alps,Alps-Rural,990
+6292,St. Niklaus,23,VS,Rural,Alps,Alps-Rural,2224
+6293,Stalden (VS),23,VS,Periurban,Alps,Alps-Periurban,1052
+6294,Staldenried,23,VS,Periurban,Alps,Alps-Periurban,537
+6295,Täsch,23,VS,Rural,Alps,Alps-Rural,1345
+6296,Törbel,23,VS,Periurban,Alps,Alps-Periurban,498
+6297,Visp,23,VS,Urban,Alps,Alps-Urban,8060
+6298,Visperterminen,23,VS,Periurban,Alps,Alps-Periurban,1328
+6299,Zeneggen,23,VS,Periurban,Alps,Alps-Periurban,295
+6300,Zermatt,23,VS,Urban,Alps,Alps-Urban,5820
+6404,Boudry,24,NE,Periurban,Midlands,Midlands-Periurban,6193
+6408,Cortaillod,24,NE,Periurban,Midlands,Midlands-Periurban,4697
+6413,Rochefort,24,NE,Periurban,Jura,Jura-Periurban,1291
+6416,Milvignes,24,NE,Periurban,Midlands,Midlands-Periurban,9063
+6417,La Grande Béroche,24,NE,Rural,Midlands,Midlands-Rural,8825
+6421,La Chaux-de-Fonds,24,NE,Urban,Jura,Jura-Urban,36915
+6422,Les Planchettes,24,NE,Periurban,Jura,Jura-Periurban,210
+6423,La Sagne,24,NE,Periurban,Jura,Jura-Periurban,1058
+6432,La Brévine,24,NE,Rural,Jura,Jura-Rural,624
+6433,Brot-Plamboz,24,NE,Rural,Jura,Jura-Rural,290
+6434,Le Cerneux-Péquignot,24,NE,Periurban,Jura,Jura-Periurban,313
+6435,La Chaux-du-Milieu,24,NE,Periurban,Jura,Jura-Periurban,514
+6436,Le Locle,24,NE,Urban,Jura,Jura-Urban,10878
+6437,Les Ponts-de-Martel,24,NE,Periurban,Jura,Jura-Periurban,1230
+6451,Cornaux,24,NE,Periurban,Midlands,Midlands-Periurban,1587
+6452,Cressier (NE),24,NE,Periurban,Midlands,Midlands-Periurban,1892
+6453,Enges,24,NE,Periurban,Jura,Jura-Periurban,266
+6454,Hauterive (NE),24,NE,Urban,Midlands,Midlands-Urban,2636
+6455,Le Landeron,24,NE,Periurban,Midlands,Midlands-Periurban,4642
+6456,Lignières,24,NE,Periurban,Jura,Jura-Periurban,979
+6458,Neuchâtel,24,NE,Urban,Midlands,Midlands-Urban,44531
+6459,Saint-Blaise,24,NE,Urban,Midlands,Midlands-Urban,3258
+6461,La Tène,24,NE,Urban,Midlands,Midlands-Urban,5176
+6487,Val-de-Ruz,24,NE,Periurban,Jura,Jura-Periurban,17143
+6504,La Côte-aux-Fées,24,NE,Rural,Jura,Jura-Rural,458
+6511,Les Verrières,24,NE,Rural,Jura,Jura-Rural,646
+6512,Val-de-Travers,24,NE,Rural,Jura,Jura-Rural,10579
+6601,Aire-la-Ville,25,GE,Periurban,Midlands,Midlands-Periurban,1160
+6602,Anières,25,GE,Periurban,Midlands,Midlands-Periurban,2381
+6603,Avully,25,GE,Periurban,Midlands,Midlands-Periurban,1756
+6604,Avusy,25,GE,Periurban,Midlands,Midlands-Periurban,1391
+6605,Bardonnex,25,GE,Periurban,Midlands,Midlands-Periurban,2396
+6606,Bellevue,25,GE,Periurban,Midlands,Midlands-Periurban,3467
+6607,Bernex,25,GE,Urban,Midlands,Midlands-Urban,10258
+6608,Carouge (GE),25,GE,Urban,Midlands,Midlands-Urban,22536
+6609,Cartigny,25,GE,Periurban,Midlands,Midlands-Periurban,971
+6610,Céligny,25,GE,Periurban,Midlands,Midlands-Periurban,792
+6611,Chancy,25,GE,Periurban,Midlands,Midlands-Periurban,1708
+6612,Chêne-Bougeries,25,GE,Urban,Midlands,Midlands-Urban,12621
+6613,Chêne-Bourg,25,GE,Urban,Midlands,Midlands-Urban,8791
+6614,Choulex,25,GE,Periurban,Midlands,Midlands-Periurban,1182
+6615,Collex-Bossy,25,GE,Periurban,Midlands,Midlands-Periurban,1686
+6616,Collonge-Bellerive,25,GE,Urban,Midlands,Midlands-Urban,8445
+6617,Cologny,25,GE,Urban,Midlands,Midlands-Urban,5866
+6618,Confignon,25,GE,Urban,Midlands,Midlands-Urban,4579
+6619,Corsier (GE),25,GE,Periurban,Midlands,Midlands-Periurban,2295
+6620,Dardagny,25,GE,Periurban,Midlands,Midlands-Periurban,1855
+6621,Genève,25,GE,Urban,Midlands,Midlands-Urban,203856
+6622,Genthod,25,GE,Periurban,Midlands,Midlands-Periurban,2893
+6623,Le Grand-Saconnex,25,GE,Urban,Midlands,Midlands-Urban,12378
+6624,Gy,25,GE,Periurban,Midlands,Midlands-Periurban,473
+6625,Hermance,25,GE,Periurban,Midlands,Midlands-Periurban,1073
+6626,Jussy,25,GE,Periurban,Midlands,Midlands-Periurban,1233
+6627,Laconnex,25,GE,Periurban,Midlands,Midlands-Periurban,710
+6628,Lancy,25,GE,Urban,Midlands,Midlands-Urban,33989
+6629,Meinier,25,GE,Periurban,Midlands,Midlands-Periurban,2115
+6630,Meyrin,25,GE,Urban,Midlands,Midlands-Urban,26129
+6631,Onex,25,GE,Urban,Midlands,Midlands-Urban,18933
+6632,Perly-Certoux,25,GE,Periurban,Midlands,Midlands-Periurban,3127
+6633,Plan-les-Ouates,25,GE,Urban,Midlands,Midlands-Urban,10601
+6634,Pregny-Chambésy,25,GE,Periurban,Midlands,Midlands-Periurban,3803
+6635,Presinge,25,GE,Periurban,Midlands,Midlands-Periurban,696
+6636,Puplinge,25,GE,Urban,Midlands,Midlands-Urban,2488
+6637,Russin,25,GE,Periurban,Midlands,Midlands-Periurban,530
+6638,Satigny,25,GE,Periurban,Midlands,Midlands-Periurban,4286
+6639,Soral,25,GE,Periurban,Midlands,Midlands-Periurban,976
+6640,Thônex,25,GE,Urban,Midlands,Midlands-Urban,14573
+6641,Troinex,25,GE,Urban,Midlands,Midlands-Urban,2551
+6642,Vandoeuvres,25,GE,Urban,Midlands,Midlands-Urban,2754
+6643,Vernier,25,GE,Urban,Midlands,Midlands-Urban,34898
+6644,Versoix,25,GE,Urban,Midlands,Midlands-Urban,13281
+6645,Veyrier,25,GE,Urban,Midlands,Midlands-Urban,11861
+6702,Boécourt,26,JU,Periurban,Jura,Jura-Periurban,923
+6703,Bourrignon,26,JU,Periurban,Jura,Jura-Periurban,270
+6704,Châtillon (JU),26,JU,Periurban,Jura,Jura-Periurban,485
+6706,Courchapoix,26,JU,Periurban,Jura,Jura-Periurban,446
+6708,Courrendlin,26,JU,Periurban,Jura,Jura-Periurban,3631
+6709,Courroux,26,JU,Urban,Jura,Jura-Urban,3313
+6710,Courtételle,26,JU,Periurban,Jura,Jura-Periurban,2644
+6711,Delémont,26,JU,Urban,Jura,Jura-Urban,12618
+6712,Develier,26,JU,Periurban,Jura,Jura-Periurban,1371
+6713,Ederswiler,26,JU,Rural,Jura,Jura-Rural,118
+6715,Mervelier,26,JU,Periurban,Jura,Jura-Periurban,528
+6716,Mettembert,26,JU,Periurban,Jura,Jura-Periurban,108
+6718,Movelier,26,JU,Periurban,Jura,Jura-Periurban,415
+6719,Pleigne,26,JU,Periurban,Jura,Jura-Periurban,349
+6721,Rossemaison,26,JU,Urban,Jura,Jura-Urban,687
+6722,Saulcy,26,JU,Rural,Jura,Jura-Rural,255
+6724,Soyhières,26,JU,Periurban,Jura,Jura-Periurban,436
+6729,Haute-Sorne,26,JU,Rural,Jura,Jura-Rural,7167
+6730,Val Terbi,26,JU,Periurban,Jura,Jura-Periurban,3190
+6741,Le Bémont (JU),26,JU,Rural,Jura,Jura-Rural,324
+6742,Les Bois,26,JU,Rural,Jura,Jura-Rural,1246
+6743,Les Breuleux,26,JU,Rural,Jura,Jura-Rural,1528
+6744,La Chaux-des-Breuleux,26,JU,Rural,Jura,Jura-Rural,96
+6745,Les Enfers,26,JU,Rural,Jura,Jura-Rural,149
+6748,Les Genevez (JU),26,JU,Rural,Jura,Jura-Rural,516
+6750,Lajoux (JU),26,JU,Rural,Jura,Jura-Rural,671
+6751,Montfaucon,26,JU,Rural,Jura,Jura-Rural,572
+6753,Muriaux,26,JU,Rural,Jura,Jura-Rural,490
+6754,Le Noirmont,26,JU,Rural,Jura,Jura-Rural,1914
+6757,Saignelégier,26,JU,Rural,Jura,Jura-Rural,2615
+6758,Saint-Brais,26,JU,Rural,Jura,Jura-Rural,227
+6759,Soubey,26,JU,Rural,Jura,Jura-Rural,131
+6771,Alle,26,JU,Rural,Jura,Jura-Rural,1895
+6773,Beurnevésin,26,JU,Rural,Jura,Jura-Rural,119
+6774,Boncourt,26,JU,Rural,Jura,Jura-Rural,1195
+6775,Bonfol,26,JU,Rural,Jura,Jura-Rural,663
+6778,Bure,26,JU,Rural,Jura,Jura-Rural,645
+6781,Coeuve,26,JU,Rural,Jura,Jura-Rural,740
+6782,Cornol,26,JU,Rural,Jura,Jura-Rural,1028
+6783,Courchavon,26,JU,Rural,Jura,Jura-Rural,314
+6784,Courgenay,26,JU,Rural,Jura,Jura-Rural,2400
+6785,Courtedoux,26,JU,Rural,Jura,Jura-Rural,755
+6787,Damphreux,26,JU,Rural,Jura,Jura-Rural,181
+6789,Fahy,26,JU,Rural,Jura,Jura-Rural,347
+6790,Fontenais,26,JU,Urban,Jura,Jura-Urban,1690
+6792,Grandfontaine,26,JU,Rural,Jura,Jura-Rural,387
+6793,Lugnez,26,JU,Rural,Jura,Jura-Rural,188
+6800,Porrentruy,26,JU,Urban,Jura,Jura-Urban,6434
+6806,Vendlincourt,26,JU,Rural,Jura,Jura-Rural,560
+6807,Basse-Allaine,26,JU,Rural,Jura,Jura-Rural,1241
+6808,Clos du Doubs,26,JU,Rural,Jura,Jura-Rural,1263
+6809,Haute-Ajoie,26,JU,Rural,Jura,Jura-Rural,1096
+6810,La Baroche,26,JU,Rural,Jura,Jura-Rural,1135
