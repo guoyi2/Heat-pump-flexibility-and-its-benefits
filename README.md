@@ -8,7 +8,7 @@ assess its flexibility potential for power system operation from 2021 to 2050. T
     Simulates hourly heat pump (HP) electricity consumption for individual buildings; Calculates hourly HP demand and flexibility bounds from building construction data and hourly ambient temperature trajectories.
 
 - **data and results**  
-    Performs data analysis and results visualization on HP electricity consumption, HP demand flexibility, Impact of social acceptance and building archetypes, Impact on power systems, and HP flexibility for power systems.
+    Performs data analysis and visualization of HP electricity consumption, HP demand flexibility, the impact of social acceptance and building archetypes, the impact on power systems, and the role of HP flexibility in power system operation.
 
 ## Module 1: HP demand and flexibility identification
 This block calculates the HP hourly demand and flexibility bounds based on the building construction dataset and hourly ambient temperature trajectories. 
@@ -108,7 +108,7 @@ opts.DataLines = [2, 1000];
 ***Building Data CSV Files***
 Located in `data/buildings/buildings_info_ch/projection/original_info/`, one CSV file per canton.
 
-*Note that only a limited subset of the building data is provided here to illustrate the calculation procedure. The full analysis spans all 1.8 million buildings in Switzerland and considers multiple heat pump deployment, building retrofit, and climate mitigation scenarios. Each scenario requires a complete building dataset, leading to a total data volume of up to hundreds of gigabytes. Therefore, for review purposes, we include only the data for one scenaior (building information in 2021) in this package. We are ready to make the full building datasets for all considered scenarios publicly available as part of this submission.*
+*Note that only a limited subset of the building data is provided here to illustrate the calculation procedure. The full analysis spans all 1.8 million buildings in Switzerland and considers multiple heat pump deployment, building retrofit, and climate mitigation scenarios. Each scenario requires a complete building dataset, leading to a total data volume of up to hundreds of gigabytes. Therefore, for review purposes, we include only the data for one scenario (building information in 2021) in this package. We are ready to make the full building datasets for all considered scenarios publicly available as part of this submission.*
 
 **Key Fields:**
 | Field | Description |
@@ -129,7 +129,7 @@ Located in `data/buildings/buildings_info_ch/projection/original_info/`, one CSV
 
 #### Temperature Data
 - File: `data/temperatures/temperature_ch/CH_2021_real.mat`
-- Format: MATLAB cell array containing hourly ambient temperature data for all weather measurement station in Switzerland.
+- Format: MATLAB cell array containing hourly ambient temperature data for all weather measurement stations in Switzerland.
 
 ### Output Results
 
@@ -203,7 +203,7 @@ A: Add the corresponding CSV file to `data/buildings/buildings_info_ch/projectio
 
 
 ## Module 2: Output data and results
-This folder contains the Jupyter notebooks used to analyse the outputs and generate the figures included in the manuscript, the Extended Data, and the Supplementary Information, which contains the following results:
+This folder contains the Jupyter notebooks used to analyze the outputs and generate the figures included in the manuscript, the Extended Data, and the Supplementary Information, which contains the following results:
 
 ### Main figures
 - `Figure 1.ipynb`
@@ -224,7 +224,7 @@ This folder contains the Jupyter notebooks used to analyse the outputs and gener
 - `Supplementary Figure 5.ipynb`
 
 ### Software environment
-The notebooks were saved with a Python 3 Jupyter kernel. The notebook metadata indicates Python **3.13.5** in the saved environment. To reproduce the figures, the following Python packages are required:
+The notebooks were created with a Python 3 Jupyter kernel. The notebook metadata indicates Python **3.13.5** in the saved environment. To reproduce the figures, the following Python packages are required:
 
 - `jupyter`
 - `numpy`
@@ -243,7 +243,7 @@ Additional packages required by some notebooks:
 - `pyproj`
 - `mpl_toolkits`
 
-which also are included in `requirement.text`.
+which are also included in `requirement.txt`.
 
 ### Data requirements
 All data required to run the analyses and visualization can be found in the folder `Output_data`. 
@@ -294,13 +294,13 @@ Output data and results/
 │   ├── SHP-SWEET EDGE/
 │   └── municipalities_result/
 │   └── flexibility_temperature_ch_2024_Tset22.0_10000_RCP26_Quant50_Category II.mat
-└── README.MD
+└── README.md
 
 ```
 
 ### Power system simulation
 
-The code and data used specifically for the power system simulations are available upon reasonable request. All other code, data, and materials relevant to this work are ready for publicly available, and a subset of the data is included here for review. Further details on the power system optimization framework and the associated software can be found at [Nexus-e](https://nexus-e.org/). All simulations were conducted on [ETH Euler](https://docs.hpc.ethz.ch/hardware/), with each full scenario run typically requiring approximately 5 days of computation.
+The code and data used specifically for the power system simulations are available upon reasonable request. All other code, data, and materials relevant to this work are ready for public release, and a subset of the data is included here for review. Further details on the power system optimization framework and the associated software can be found at [Nexus-e](https://nexus-e.org/). All simulations were conducted on [ETH Euler](https://docs.hpc.ethz.ch/hardware/), with each full scenario run typically requiring approximately 5 days of computation.
 
 
 
