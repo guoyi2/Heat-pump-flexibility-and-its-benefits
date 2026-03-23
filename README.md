@@ -101,14 +101,14 @@ opts.DataLines = [2, 100];
 opts.DataLines = [2, 1000];
 ```
 
-**Note:** In `[2, inf]`, `2` means starting from row 2 (skip CSV header), and `inf` means read until the end of the file.
+**Note:** In `[2, inf]`, `2` means starting from row 2 (skip CSV header), and `inf` means read until end of file.
 
 #### Input Data Format
 
 ***Building Data CSV Files***
 Located in `data/buildings/buildings_info_ch/projection/original_info/`, one CSV file per canton.
 
-*Note that only a limited subset of the building data is provided here to illustrate the calculation procedure. The full analysis spans all 1.8 million buildings in Switzerland and considers multiple heat pump deployment, building retrofit, and climate mitigation scenarios. Each scenario requires a complete building dataset, leading to a total data volume of up to hundreds of gigabytes. Therefore, for review purposes, we include only the data for one scenario (building information in 2021) in this package. We are ready to make the full building datasets for all considered scenarios publicly available as part of this submission.*
+*Note that only a limited subset of the building data is provided here to illustrate the calculation procedure. The full analysis spans all 1.8 million buildings in Switzerland and considers multiple heat pump deployment, building retrofit, and climate mitigation scenarios. Each scenario requires a complete building dataset, leading to a total data volume of up to hundreds of gigabytes. Therefore, for review purposes, we include only the data for one scenaior (building information in 2021) in this package. We are ready to make the full building datasets for all considered scenarios publicly available as part of this submission.*
 
 **Key Fields:**
 | Field | Description |
@@ -129,7 +129,7 @@ Located in `data/buildings/buildings_info_ch/projection/original_info/`, one CSV
 
 #### Temperature Data
 - File: `data/temperatures/temperature_ch/CH_2021_real.mat`
-- Format: MATLAB cell array containing hourly ambient temperature data for all weather measurement stations in Switzerland.
+- Format: MATLAB cell array containing hourly ambient temperature data for all weather measurement station in Switzerland.
 
 ### Output Results
 
@@ -243,14 +243,12 @@ Additional packages required by some notebooks:
 - `pyproj`
 - `mpl_toolkits`
 
-which are also included in `requirement.text`.
+which also are included in `requirement.text`.
 
 ### Data requirements
 All data required to run the analyses and visualization can be found in the folder `Output_data`. 
 
 *Note that only a limited subset of the simulation results is included in this package due to space constraints. This subset is sufficient to reproduce the plots presented in the manuscript and Supplementary Information. However, we are prepared to publish the complete set of four-year simulation results covering four HP deployment scenarios, three climate change mitigation strategies, six levels of HP control availability, three levels of indoor temperature setpoints, and three levels of indoor temperature ranges, including both the HP demand and flexibility identification results and the power system simulation outputs. In total, these results amount to hundreds of gigabytes of data. For review purposes, we therefore include only the data necessary to reproduce the results presented in this submission.*
-
-*The data for power systems simulation is available upon request*
 
 ### The structure of this folder is
 
@@ -299,6 +297,10 @@ Output data and results/
 └── README.MD
 
 ```
+
+### Power system simulation
+
+Code and data for power systems simulations are available upon request.The details of power system optimization and its assocaited software can be found at (https://nexus-e.org/). Our simulations were running on the ETH Euler (https://docs.hpc.ethz.ch/hardware/). One full scenario run typically requires approximately 5 days of computing time.*
 
 ### Figure-to-notebook mapping
 The notebooks are named according to the figure(s) they reproduce:
@@ -362,5 +364,4 @@ The notebooks are named according to the figure(s) they reproduce:
 **Cooresponding author:** Yi Guo  
 **Organization:** Beijing Institute of Technology  
 **Email:** yi.guo@bit.edu.cn; yi.guo@ieee.org  
-
 

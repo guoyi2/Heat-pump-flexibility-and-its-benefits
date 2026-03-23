@@ -1,0 +1,63 @@
+clear,clc;
+load('..\data\temperatures\temperature_ch\CH_2021_real.mat');
+climate_change_temperature = readmatrix('..\data\temperatures\average_temperature_difference_1981_2099.csv');
+climate_change_temperature = [0,0,0;climate_change_temperature(42:70,2:end)];
+global deltaT T days T_abszero;
+T_abszero = -273.15;
+deltaT = 1;
+T = 24;
+days = length(temperature{1}.temperature)/T;
+month_days = cumsum([31,28,31,30,31,30,31,31,30,31,30,31]);
+%T_mat = T_mat+T_abszero;
+% cantons = {'AG', 'AI', 'AR', 'BE', 'BL', 'BS', 'FR', 'GE', 'GL', 'GR', 'JU', 'LU',...
+%     'NE', 'NW', 'OW', 'SG', 'SH', 'SO', 'SZ', 'TG', 'TI', 'UR', 'VD', 'VS', 'ZG', 'ZH'};
+cantons = {'AI'};
+
+% canton_names = {'Aargau', 'Appenzell Innerrhoden', 'Appenzell Ausserrhoden',...
+%     'Bern', 'Basel-Landschaft', 'Basel-Stadt', 'Freiburg', 'Genève', 'Glarus',...
+%     'Graubünden', 'Jura', 'Luzern', 'Neuchâtel', 'Nidwalden', 'Obwalden',...
+%     'St. Gallen', 'Schaffhausen', 'Solothurn', 'Schwyz', 'Thurgau', 'Ticino',...
+%     'Uri', 'Vaud', 'Valais', 'Zug', 'Zürich'};
+% cantons = {'AI'};
+%canton_map = containers.Map(cantons,canton_names);
+% RCPcases = {'RCP26','RCP45','RCP85'};
+% Quantcases = {'Quant50','Quant75','Quant95','Quant165'};
+
+params.Tmax = 24;
+params.Tmax_retrofit = 25;
+params.Tmin = 20;
+params.Tmin_retrofit  = 20;
+params.Tset  = 22;
+i_RCP = 1;
+i_Quant = 1;
+
+temperature0 = temperature;
+for i = 1:length(cantons)
+    canton = cantons{i}
+    temperature = temperature0;
+    % for year = 2021:2050
+    % year
+    % for it = 1:length(temperature)
+    %     temperature{it}.temperature = temperature{it}.temperature+climate_change_temperature(year-2020,i_RCP);
+    % end
+    opts = detectImportOptions(['../data/buildings/buildings_info_ch/projection/original_info/',canton,'.csv']);
+    opts.SelectedVariableNames={'HBLD','CBLD','HHTR','THKM8','THK15','QRTnew','TMPIDX','ISHP','ISRSD','HPTYP','TSN','GBAUJ','ISRTF'};
+    %注意这个地方PRT被改成了QRTnew，因为用了新的规则定义P
+    opts.DataLines = [2,inf];
+    building_data = readmatrix(['../data/buildings/buildings_info_ch/projection/original_info/',canton,'.csv'],opts);
+    idx_HPs = find(building_data(:,8)==1);
+    HPs = gen_HP_params(building_data(idx_HPs,:), params);
+    Flexibilities.N_buildings = length(idx_old_buildings);
+    clear building_data
+    
+    
+    Flexibilities.N_HPs = length(idx_HPs_in_old_building);
+    [Pmin,Pmax,Emin,Emax,Pbase] = cal_HP_bounds_sum_daily_COP(HPs_old_buildings,temperature);
+    scalar = 1e-6;%GW/GWH
+    Flexibilities.Pmin = Pmin(1,1) * scalar;
+    Flexibilities.Pmax = Pmax(1,1) * scalar;
+    Flexibilities.Emin = Emin * scalar;
+    Flexibilities.Emax = Emax * scalar;
+    Flexibilities.Pbase = Pbase * scalar;
+    save(['../results/canton flexibility data/',canton,'.mat'],"Flexibilities")
+end
