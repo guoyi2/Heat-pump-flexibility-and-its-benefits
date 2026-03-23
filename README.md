@@ -300,7 +300,9 @@ Output data and results/
 
 ### Power system simulation
 
-Code and data for power systems simulations are available upon request.The details of power system optimization and its assocaited software can be found at (https://nexus-e.org/). Our simulations were running on the ETH Euler (https://docs.hpc.ethz.ch/hardware/). One full scenario run typically requires approximately 5 days of computing time.*
+The code and data used specifically for the power system simulations are available upon reasonable request. All other code, data, and materials relevant to this work are ready for publicly available, and a subset of the data is included here for review. Further details on the power system optimization framework and the associated software can be found at [Nexus-e](https://nexus-e.org/). All simulations were conducted on [ETH Euler](https://docs.hpc.ethz.ch/hardware/), with each full scenario run typically requiring approximately 5 days of computation.
+
+
 
 ### Figure-to-notebook mapping
 The notebooks are named according to the figure(s) they reproduce:
