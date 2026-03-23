@@ -363,7 +363,7 @@ The notebooks are named according to the figure(s) they reproduce:
 
 ## Contact information
 
-**Cooresponding author:** Yi Guo  
+**Corresponding author:** Yi Guo  
 **Organization:** Beijing Institute of Technology  
 **Email:** yi.guo@bit.edu.cn; yi.guo@ieee.org  
 
